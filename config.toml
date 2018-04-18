@@ -21,7 +21,7 @@ theme = "hugo-bootstrap"
 
 defaultContentLanguage = "en"
 
-
+ 
 
 
 [languages.fr]
