@@ -1,6 +1,6 @@
 +++
 date = "2018-04-18T01:29:26+00:00"
-title = "Decomposing Wari"
+title = "Decomposing Wari structure"
 tags = [
     "Kabirou",
     "property",
@@ -8,7 +8,7 @@ tags = [
 ]
 +++
 
-Today we start exploring the main asset of Kabirou - Wari. First let's review some official documents. We start we the ownership structure:
+Today we start exploring the main asset of Kabirou - Wari. First let's review some official documents. We start with the ownership structure:
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1524050694/Wari_ownership_structure_1_ptnjnu.jpg">
     <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1524050694/Wari_ownership_structure_1_ptnjnu.jpg" style="max-width:100%">
@@ -37,7 +37,7 @@ Also, please, note that we're missing one important piece in the ownership diagr
 
 It's turnover in 2017 was around $1,5 mln, and in 2018 it will be used for at least two major acquisitions by Kabirou in France: [TSI Payments](http://www.tsi-payment.com/) and some **"KM SCI"**. There will be separate posts about both.
 
-Based on SMARTWORLDS bank records, we see that it is used as Kabirou's "private pocket". He makes frequent payments from the accounts of SMARTWORLDS for his leisure activities (wait for it, we'll get there), sends money to his kids, etc. I'm now working on a very important post that will cover the exchanges between Kabirou and two employees of the HSBC bank: [Karie W Y CHAU](mailto:wing.yan.chau@hsbc.com.hk), Vice-president and [Chris C K Tam](mailto:chris.c.k.tam@hsbc.com.hk). There is an interesting intrigue there, which **may(!)** involve a case of document forgery by Kabirou. To prove it definitively I just need to contact [Frédéric Quéru](mailto:frederic.queru@ardian.com) or [Bernard Marchal](mailto:bernard@marchal.eu) concerning some signatures they allegedly made.
+Based on SMARTWORLDS bank records, we see that it is used as Kabirou's "private pocket". He makes frequent payments from the accounts of SMARTWORLDS for his leisure activities (wait for it, we'll get there), sends money to his kids, etc. I'm now working on a very important post that will cover the exchanges between Kabirou and two employees of the HSBC bank: [Karie W Y CHAU](mailto:wing.yan.chau@hsbc.com.hk), Vice-president and [Chris C K Tam](mailto:chris.c.k.tam@hsbc.com.hk). There is an interesting intrigue there, which **may(!)** involve a case of document forgery by Kabirou. To prove it definitively I just need to contact [Frédéric Quéru](mailto:frederic.queru@ardian.com) or [Bernard Marchal](mailto:bernard@marchal.eu) concerning some signatures they supposedly made.
 
 Stay tuned and remember the First Rule of the Club: **There is no such thing as privacy!**
 <hr>
