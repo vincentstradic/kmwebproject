@@ -1,10 +1,10 @@
 +++
 date = "2018-04-16T11:29:26+00:00"
-title = "Beginning: Kabirou's passport -fr"
+title = "Beginning: Kabirou's passport - fr"
 tags = [
     "Kabirou",
     "passport",
-]
+]Â
 +++
 
 I'll start by establishing some credibility, so that no one has any doubts about the materials presented in this site. Please, see the current French passport of Kabirou Mbodje:
