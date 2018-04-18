@@ -1,6 +1,6 @@
 +++
 date = "2018-04-16T11:29:26+00:00"
-title = "Beginning: Kabirou's passport - fyr"
+title = "Beginning: Kabirou's passport - fr"
 tags = [
     "Kabirou",
     "passport",
