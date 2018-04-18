@@ -1,0 +1,77 @@
+baseurl = "http://warileaks.com/"
+title = "Kabirou Mbodje Fan Club"
+languageCode = "en-us"
+
+# Pagination
+paginate = 10
+paginatePath = "page"
+
+# Theme to use
+theme = "hugo-bootstrap"
+
+[taxonomies]
+  tag = "tags"
+  # category = "categories"
+
+
+# Google analytics
+# googleAnalytics = "UA-47268287-3"
+
+# Languages
+
+defaultContentLanguage = "en"
+
+
+
+
+[languages.fr]
+  languageName = "Français"
+
+  [[languages.fr.menu.main]]
+    url = "/fr/"
+    name = "Accueil"
+    weight = 1
+  [[languages.fr.menu.main]]
+    url = "/about/"
+    name = "A propos de nous"
+    weight = 2
+
+[languages.en]
+  languageName = "English"
+
+  [[languages.en.menu.main]]
+    url = "/"
+    name = "Home"
+    weight = 1
+  [[languages.en.menu.main]]
+    url = "/about/"
+    name = "About"
+    weight = 2
+
+# Links format
+
+[permalinks]
+  post = "/:title/"
+
+[params]
+  # Main sections (currently used for the recent posts in the sidebar)
+  mainSections = ["post"]
+
+  # Default author
+  # author = "John Doe"
+
+  # Date format (default: Jan 2, 2006)
+  # date_format = "Jan 2, 2006"
+
+  # Display post summaries instead of content in list templates (default: true)
+  # truncate = false
+
+  [params.sidebar]
+    # Weather to show the recent posts or not (default: true)
+    # showRecent = false
+
+    # Weather to show the taxonomies or not (default: true)
+    # showTaxonomy = false
+
+    # How many posts to show on the sidebar (Default: 5)
+    num_recent_posts = 5

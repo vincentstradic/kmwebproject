@@ -1,0 +1,26 @@
+- id: by
+  translation: "par"
+
+- id: tags
+  translation: "Tags"
+
+- id: categories
+  translation: "Categories"
+
+- id: readMore
+  translation: "Lire la suite →"
+
+- id: translations
+  translation: "Traductions"
+
+- id: related
+  translation: "voir également"
+
+- id: recentPosts
+  translation: "Articles"
+
+- id: backToTop
+  translation: "Retour au sommet"
+
+- id: language
+  translation: "Langue"
