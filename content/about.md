@@ -4,7 +4,7 @@ title: "About the Club"
 
 #### Welcome, my friends, to the Fan Club of Kabirou Mbodje!
 
-Very few people get their own fan club, but we all know how special is Mr. Kabirou Mbodje. He inspires a lot of love and devotion in everybody, who ever had the precious opportunity of meeting our hero.
+Very few people get their own fan club, but we all know how special is Mr. Kabirou Mbodje. Kabirou inspires a love and devotion in everybody, who ever had the precious opportunity of meeting our hero.
 
 In this club, we are going to explore the business and private life of Kabirou, based on a huge array of confidential materials that he, himself, provided in the spirit of full disclosure. The First Rule of our Club: **There is no such thing as privacy!**
 
@@ -12,13 +12,13 @@ Every day I'll be publishing some new documents and letters by Kabirou, his busi
 
 We'll analyze the Tigo deal - how it started, what went wrong and what is Kabirou's strategy to recover his losses from Millicom/Consortium. He is taking a very aggressive path (that's what we love him for), but his lawyers are a bit less than optimistic. I'll share some details with you shortly.
 
-I'd say that we're going to research Kabirou's M&A strategy, but he unfortunately doesn't have one. Right now he is in the process of several dozens of negotiations, trying to cash out of Wari (at least a little bit) and cash into some European/US business. We'll cover the most important processes in short, and then will dig deeper if some of these negotiations prove to be successful.
+I'd say that we're going to research Kabirou's M&A strategy, but unfortunately he doesn't have one. Right now he is in the process of several dozens of negotiations, trying to cash out of Wari and cash into some European/US business. We'll cover the most important processes in short, and then will dig deeper if some of these negotiations succeed.
 
 Wari employees will be delighted to read some documents on internal management, HR policies and compensations. Did you realize that the difference between the highest and the lowest full-time salaries in Wari is more than 100 times? Yeah, wait for details.
 
 We'll also uncover some interesting facts about Kabirou's family, and why his children are so grateful to him at the moment. Apart from family he also has some secret private life - but you remember the First Rule - so we'll research that as well.
 
-Currently the members of the club include about 1600 people - those who were in contact with Kabirou during the last year and instantly fell in love with him. The full list of members is available in this Excel file. Some of the Club members are special, and we'll devote separate pieces to them and their affairs.
+Currently the members of the club include about 1600 people - those who were in contact with Kabirou during the last year and instantly fell in love with him. The full list of members is available in [this Excel file](). Some of the Club members are special, and we'll devote separate pieces to them and their affairs.
 Unfortunately, some important people haven't yet joined the club, and we need them to be with us. If you are in contact with:
 - Cheikh Tagué, Seyni Kamara or Malick Fall;
 - Ex-partners, business associates or employees unlawfully fired by Kabirou;
