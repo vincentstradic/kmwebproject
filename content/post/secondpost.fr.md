@@ -1,6 +1,6 @@
 +++
 date = "2018-04-17T10:29:26+00:00"
-title = "Jeune entrepreneur Sénégalais"
+title = "The young tycoon of Senegal"
 tags = [
     "Kabirou",
     "property",
@@ -57,5 +57,5 @@ Malheureusement, tout cela est juste un autre mensonge pour une autre banque, o�
 
 La réalité est beaucoup plus compliquée. Au cours des prochains jours nous étudierons en détail, où Kabirou reçoit son argent et comment il le dépense, les revenus de Wari Group, le solde et la valeur des actions et nous essaierons ensuite de comprendre pourquoi Kabirou est si désireux de vendre des actions Wari le plus rapidement possible..
 
-**Stay tuned!**
+**À suivre...**
 <hr>

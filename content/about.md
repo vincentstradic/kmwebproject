@@ -2,7 +2,7 @@
 title: "About the Club"
 ---
 
-#### Welcome, my friends, to the Fan Club of Kabirou Mbodje!
+#### Welcome, my friends, to the Fan-Club of Kabirou Mbodje!
 
 Very few people get their own fan club, but we all know how special is Mr. Kabirou Mbodje. Kabirou inspires a love and devotion in everybody, who ever had the precious opportunity of meeting our hero.
 
