@@ -22,7 +22,7 @@ Currently the members of the club include about 1600 people - those who were in 
 Unfortunately, some important people haven't yet joined the club, and we need them to be with us. If you are in contact with:
 - Cheikh Tagué, Seyni Kamara or Malick Fall;
 - Ex-partners, business associates or employees unlawfully fired by Kabirou;
-- Journalists in African, French or international media, who are interested in writing about the "Young tycoon" and "African Elon Mask";
+- Journalists in African, French or international media, who are interested in writing about the "Young tycoon" and "African Elon Musk";
 please, add their emails in the form at the bottom, and we'll welcome new members in our Club.
 
 Basic membership in the club is free of charge. However, if you have any special requests for Kabirou's documents and exchanges, or if you would like to have the whole archive right now - contact me at info@warileaks.com, and we'll work something out. Club membership is irrevocable - you can't just stop being a fan of Kabirou, nobody can.

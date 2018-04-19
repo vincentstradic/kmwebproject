@@ -2,31 +2,35 @@
 title: "À propos du Club"
 ---
 
-**Welcome, my friends, to the Fan Club of Kabirou Mbodje!**
+#### Bienvenue, mes amis, au fan-club de Kabirou Mbodje!
 
-In this website, I'm going to explore the business and private life of Kabirou, based on a huge array of confidential materials that he, himself, provided in the spirit of full disclosure. The First Rule of our Club: there is no such thing as privacy!
+Très peu de gens ont la chance d'avoir leur propre fan-club, mais nous savons tous à quel point M. Kabirou Mbodje est spécial. Il inspire beaucoup d'amour et de dévotion à tous ceux et celles qui ont eu la chance de rencontrer notre héros.
 
-Every day I'll be publishing some new documents and letters by Kabirou, his business partners, employees and friends. We are going to explore various aspects of Wari ownership, management and performance, especially in the recent months. We'll review Wari cashflows (as well as CSI, Interlinq) to see, if those recent accusations against Kabirou have grounds (spoiler: yes, at least partially).
+Dans ce club, nous allons explorer les affaires et la vie privée de Kabirou. Le tout basé sur un large éventail de documents confidentiels qu'il a lui-même fournis dans un esprit de divulgation complète. La Première Règle de notre club: **La vie privée n'existe pas!**
 
-We'll spend a lot of time analysing the Tigo deal - how it started, what went wrong and what is Kabirou's current strategy on fighting Millicom/Consortium and recovering his losses. He is taking a very aggressive strategy (that's what we love him for), but his lawyers are a bit less than optimistic. I'll share some details with you shortly.
+Chaque jour, je vais publier de nouveaux documents et lettres écrites par Kabirou Mbodje, ses partenaires commerciaux, ses employés et ses amis. Nous allons étudier divers aspects de la gestion et de la performance de  Wari en particulier au cours des derniers mois. Nous examinerons ensuite les flux de trésorerie de Wari (ainsi que de CSI, Interlinq et même plus) afin de découvrir, si les [accusations récentes](https://letemoin.net/2018/04/09/finance-digitale-bceao-couvre-t-kabirou-mbodj-de-wari/) contre Kabirou ont du sens. (Révélation du jour: oui, ou à tout le moins partiellement).
 
-I'd say that we're going to cover Kabirou's M&A strategy, but he unfortunately doesn't have one. Right now he is in the process of several dozens of negotiations, trying to cash out of Wari (at least a little bit) and cash into some European/US business. We'll cover the most important processes shortly, and then in more detail, if any of these negotiations actually yields some results.
+Nous analyserons la transaction de Tigo - afin de déterminer comment tout cela a commencé ce qui se passe en ce moment et la stratégie de Kabirou pour récupérer ses pertes de Millicom/Consortium. Jusqu'à maintenant, il semble prendre un chemin très agressif (et c'est comme ça qu'on l'aime non?), mais malheureusement pour lui, ses avocats sont un peu moins optimistes. Je vais partager quelques détails à ce sujet avec vous sous peu.
 
-Wari employees will be delighted to read some documents on internal management, HR policies and compensations. Did you realize that the difference between the highest and the lowest full-time salaries in Wari is more than 100 times? Yeah, wait for details.
+Pour le moment, je dirai simplement que nous allons faire des recherches approfondies sur la stratégie de fusion et acquisition de Kabirou, mais malheureusement cette dernière semble inexistante. À l'heure actuelle, il gère plusieurs dizaines de négociations en essayant bien sûr d'encaisser de Wari afin d'investir ces fonds dans des entreprises européennes et américaines. Nous couvrirons brièvement les plus importants processus derrière ces transactions pour ensuite approfondir notre réflexion si certaines de ces négociations réussissent.
 
-We'll also uncover some details about Kabirou's family, and why his children are so grateful to him at the moment. Apart from family there is also some private life - but you remember the First Rule - so we'll uncover that too.
+Les employés de Wari seront probablement ravis de lire les documents sur la gestion interne, les politiques RH et les compensations de l'entreprise. Saviez-vous, par exemple, que le salaire à temps plein le plus élevé est 100 fois supérieur au salaire le plus bas chez Wari? Attendez, le meilleur reste à venir...
 
-Currently the members of the club include about 1600 people - those who were in contact with Kabirou during the last year and instantly fell in love with him. The full list of members is available in this Excel file. Some of the Club members are special, and we'll devote separate pieces to them and their affairs.
-Unfortunately, some very important members are missing from this list, and we need them to be with us. If you are in contact with:
-- Cheikh Tagué, Seyni Kamara or Malick Fall;
-- Ex-partners, business associates or employees unlawfully fired by Kabirou;
-- Journalists in African, French or international media, who are interested in writing about the "Young tycoon" and "African Elon Mask";
-please, add their emails in the form at the bottom, and we'll welcome new members in our Club.
+Nous allons également découvrir quelques faits intéressants sur la famille de Kabirou et pourquoi ses enfants lui sont si reconnaissants en ce moment. En dehors de la famille, il a aussi une vie privée secrète, mais vous vous souvenez de la Première Règle… nous ferons donc des recherches sur ce sujet également.
 
-Basic membership in the club is free of charge. However, if you have any special requests on Kabirou's documents and exchanges, or if you would like to have the whole archive of documents right now - contact me at info@warileaks.com, and we'll work something out. Club membership is irrevocable - you can't just stop being a fan of Kabirou, nobody can.
+Actuellement, les membres du club comprennent environ 1 600 personnes, soit ceux qui étaient en contact avec Kabirou au cours de la dernière année et qui sont instantanément tombés amoureux de lui. La liste complète des membres est disponible dans ce fichier Excel. Certains des membres du club sont "spéciaux" et nous leur consacrerons une attention particulière en parallèle avec leurs affaires respectives.
 
-All materials in this website can be reproduced in any form and with any purposes (remember the First Rule). If you are publishing something based on our materials, please, send me a link (info@warileaks.com), and I'll promote this link in my site.
+Malheureusement, certaines personnes importantes n'ont pas encore rejoint le club et nous avons besoin de les avoir à nos côtés. Si vous êtes en contact avec:
+- Cheikh Tagué, Seyni Kamara ou Malick Fall;
+- Des ex-partenaires, associés d'affaires ou employés licenciés illégalement par Kabirou;
+- ou encore des journalistes de médias africains, français ou internationaux qui seraient intéressés à écrire sur le "jeune magnat" et le "Elon Musk d'Afrique";
 
-Stay tuned!
+S.V.P. ajouter leurs e-mails dans le formulaire ci-dessous et il nous fera plaisir d'accueillir ces nouveaux membres dans notre club..
 
-Cordialement, <br/>Founder and President,<br/>Kabirou Mbodje Fan Club.
+L'adhésion de base au club est gratuite. Cependant, si vous avez des demandes spéciales par rapport à certains documents et échanges de Kabirou, ou si vous souhaitez consulter l'ensemble de l'archive dès maintenant, contactez-moi directement à <a href="mailto:info@warileaks.com?subject=feedback">info@warileaks.com</a>, et nous trouverons une façon de vous aider. L'adhésion au club est irrévocable - vous ne pouvez cesser d'être fan de Kabirou, personne ne le peut.
+
+Tous les documents de notre site peuvent être reproduits sous n'importe quelle forme et à n'importe quelle fin (rappelez-vous la Première Règle). Si vous publiez un article basé sur notre matériel, s'il vous plaît nous envoyer le lien où cet extrait apparaitra (info@warileaks.com), et il me fera plaisir de promouvoir ce lien sur mon site.
+
+**À suivre...**
+
+Cordialement, <br/>Fondateur et Président,<br/>Kabirou Mbodje Fan-Club.

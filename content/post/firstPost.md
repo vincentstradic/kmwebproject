@@ -1,6 +1,6 @@
 +++
 date = "2018-04-16T11:29:26+00:00"
-title = "Beginning: Kabirou's passport"
+title = "Introduction"
 tags = [
     "Kabirou",
     "passport",
@@ -28,3 +28,5 @@ In this project I'll stick to two important rules:
 - All the documents are received directly from Kabirou (_"Man of No Secrets"_), proofs of authenticity are always available upon request.
 
 **Stay tuned!**
+
+<hr>

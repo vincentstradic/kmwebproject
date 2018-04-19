@@ -8,17 +8,17 @@ tags = [
 ]
 +++
 
-Today we start exploring the main asset of Kabirou - Wari. First let's review some official documents. We start we the ownership structure:
+Aujourd'hui, nous commençons à explorer les actifs principaux de Kabirou - Wari. D'abord, examinons quelques documents officiels. Débutons par la structure de la propriété:
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1524050694/Wari_ownership_structure_1_ptnjnu.jpg">
     <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1524050694/Wari_ownership_structure_1_ptnjnu.jpg" style="max-width:100%">
   </a>
 </div>
 
-Though this is just one version of it...
+Bien que ce ne soit qu'une version de celle-ci...
 <!--more-->
 
-Here's another another, also from a recent presentation by Wari:
+En voici un autre, également tiré d'une présentation récente de Wari:
 
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1524050693/Wari_ownership_structure_2_wrqkvo.jpg">
@@ -27,17 +27,18 @@ Here's another another, also from a recent presentation by Wari:
 </div>
 <br></br>
 
-For those members of the Club who enjoy "official" presentations, I'm attaching the [newest piece done by Rotschild](https://res.cloudinary.com/vincentstradic/image/upload/v1524050739/Wari_Group_-_Presentation_march_2018_-_R_xip1g7.pdf). This presentation is for potential buyers of Wari shares, so it main purpose is to inflate the price of shares as much as possible. More about that soon.
+Pour les membres du club qui aiment les présentations "officielles", je joins [la dernière publication réalisée par Rotschild](https://res.cloudinary.com/vincentstradic/image/upload/v1524050739/Wari_Group_-_Presentation_march_2018_-_R_xip1g7.pdf). Celle-ci est destinée aux acheteurs potentiels d'actions de Wari et son objectif principal est de gonfler autant que possible le prix des actions. Plus d'informations à ce sujet suivront bientôt.
 
-Also, please, note that we're missing one important piece in the ownership diagrams: there is another company, "SMARTWORLDS LTD", registered in Hong Kong by [David Wang](mailto:david@wari.com). It's not included in any of the official documents, but according to Kabirou himself,
+Notez également qu'il nous manque un élément important dans les diagrammes de propriété: il existe une autre société, "SMARTWORLDS LTD", enregistrée à Hong Kong par [David Wang](mailto:david@wari.com). Cette société n'est incluse dans aucun document officiel, mais selon Kabirou lui-même,
 <p>
 **_"SMART WORLDS LIMITED (SW) is part of the Wari Group, its main purpose serves as providing technical assistance to all Wari entities and partners"_.**
 [_(Prooflink)_](https://res.cloudinary.com/vincentstradic/image/upload/v1524050697/hsbc_SW_exchange_march_pcg3ni.pdf)
 </p>
 
-It's turnover in 2017 was around $1,5 mln, and in 2018 it will be used for at least two major acquisitions by Kabirou in France: [TSI Payments](http://www.tsi-payment.com/) and some **"KM SCI"**. There will be separate posts about both.
+Son chiffre d'affaires en 2017 était d'environ 1,5 million de dollars et en 2018 cette somme sera utilisée pour au moins deux acquisitions majeures par Kabirou en France: [TSI Payments](http://www.tsi-payment.com/) et un certain **"KM SCI"**. Il y aura des publications séparées sur ces deux.
 
-Based on SMARTWORLDS bank records, we see that it is used as Kabirou's "private pocket". He makes frequent payments from the accounts of SMARTWORLDS for his leisure activities (wait for it, we'll get there), sends money to his kids, etc. I'm now working on a very important post that will cover the exchanges between Kabirou and two employees of the HSBC bank: [Karie W Y CHAU](mailto:wing.yan.chau@hsbc.com.hk), Vice-president and [Chris C K Tam](mailto:chris.c.k.tam@hsbc.com.hk). There is an interesting intrigue there, which **may(!)** involve a case of document forgery by Kabirou. To prove it definitively I just need to contact [Frédéric Quéru](mailto:frederic.queru@ardian.com) or [Bernard Marchal](mailto:bernard@marchal.eu) concerning some signatures they allegedly made.
+Basés sur les relevés de banque SMARTWORLDS, nous constatons que ces fonds sont utilisés comme "argent de poche" par Kabirou. Il effectue de fréquents paiements à partir des comptes de SMARTWORLDS pour ses activités de loisirs personnelles, envoie de l'argent à ces enfants etc. Je travaille actuellement sur une publication très importante qui couvrira les échanges entre Kabirou et deux employés de HSBC bank: [Karie W Y CHAU](mailto:wing.yan.chau@hsbc.com.hk), Vice président,
+ et [Chris C K Tam](mailto:chris.c.k.tam@hsbc.com.hk). Il y a là une intrigue pour le moins intéressante, qui **"semble"** impliquer un cas de falsification de document par Kabirou. Pour le prouver de manière irréfutable, j'ai simplement besoin de contacter  [Frédéric Quéru](mailto:frederic.queru@ardian.com) ou [Bernard Marchal](mailto:bernard@marchal.eu) cconcernant certaines signatures qu'ils ont soi-disant faites.
 
-Stay tuned and remember the First Rule of the Club: **There is no such thing as privacy!**
+Le meilleur reste à venir et souvenez-vous de la Première Règle du club: **La vie privée n'existe pas!**
 <hr>

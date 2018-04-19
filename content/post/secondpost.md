@@ -31,7 +31,7 @@ Kabirou's response to "How rich are you?" very much depends on who is asking, th
 - Salary in Interlinq: 32 million CFA monthly
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1524129448/Interlinq_salary_pcspvq.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1524129448/Interlinq_salary_pcspvq.jpg" style="max-width:100%">
+    <img src="http://res.cloudinary.com/vincentstradic/image/upload/bo_1px_solid_rgb:000/v1524129448/Interlinq_salary_pcspvq.jpg" style="max-width:100%">
   </a>
 </div>
 <br></br>
@@ -51,7 +51,7 @@ With 13-th month, his annual income as **employee** of Wari Group in 2018 should
 
 Altogether it takes us to a **fixed yearly revenue of 1149 million CFA**.
 
-This is certainly good news for Senegal, it means Kabirou will be pay roughly 430 million CFA in taxes. But it's bad news for Wari: in the best case scenario Wari Group's EBE (_Excédent Brut d'Exploitation - similar to EBITDA_) will be **3373 million CFA in 2018**, which means that Kabirou is getting a significant portion of the company's money as his own fixed income. But who will blame him - it's his company, after all.
+This is certainly good news for Senegal, it means Kabirou will pay roughly 430 million CFA in taxes. But it's bad news for Wari: in the best case scenario Wari Group's EBE (_Excédent Brut d'Exploitation - similar to EBITDA_) will be **3373 million CFA in 2018**, which means that Kabirou is getting a significant portion of the company's money as his own fixed income. But who will blame him - it's his company, after all.
 
 Unfortunately, all of that is just another lie for another bank, where he was eventually rejected.
 
