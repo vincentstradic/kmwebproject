@@ -1,6 +1,6 @@
 +++
 date = "2018-04-17T10:29:26+00:00"
-title = "Jeune entrepreneur Sénégalais"
+title = "The young tycoon of Senegal"
 tags = [
     "Kabirou",
     "property",
