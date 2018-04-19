@@ -1,6 +1,6 @@
 +++
 date = "2018-04-18T01:29:26+00:00"
-title = "Decomposing Wari - fr"
+title = "Structure de Wari"
 tags = [
     "Kabirou",
     "property",
