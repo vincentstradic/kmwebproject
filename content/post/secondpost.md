@@ -24,3 +24,4 @@ Kabirou's response to "How rich are you?" very much depends on who is asking, an
 During the next few days, we're going to study the ownership structure of Wari, the company revenues, balance and share value, and together we'll try to understand why Kabirou is so willing to sell Wari shares right now.
 
 **Stay tuned!**
+<hr>
