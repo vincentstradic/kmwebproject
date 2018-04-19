@@ -7,7 +7,7 @@ tags = [
 ]
 +++
 
-We all know that Kabirou is rich. But **how reach?** Let's see.
+We all know that Kabirou is rich. But **how rich?** Let's see.
 
 <!--more-->
 
