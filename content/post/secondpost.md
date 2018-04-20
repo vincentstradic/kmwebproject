@@ -1,5 +1,5 @@
 +++
-date = "2018-04-17T10:29:26+00:00"
+date = "2018-04-19T10:29:26+00:00"
 title = "The young tycoon of Senegal"
 tags = [
     "Kabirou",
