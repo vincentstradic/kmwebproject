@@ -68,7 +68,7 @@ defaultContentLanguage = "en"
     # showRecent = false
 
     # Weather to show the taxonomies or not (default: true)
-    # showTaxonomy = false
+    showTaxonomy = false
 
     # How many posts to show on the sidebar (Default: 5)
     num_recent_posts = 10
