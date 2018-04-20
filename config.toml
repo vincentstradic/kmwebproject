@@ -9,8 +9,8 @@ paginatePath = "page"
 # Theme to use
 theme = "hugo-bootstrap"
 
-[taxonomies]
-  tag = "tags"
+#[taxonomies]
+  #tag = "tags"
   # category = "categories"
 
 
@@ -71,4 +71,4 @@ defaultContentLanguage = "en"
     # showTaxonomy = false
 
     # How many posts to show on the sidebar (Default: 5)
-    num_recent_posts = 5
+    num_recent_posts = 10
