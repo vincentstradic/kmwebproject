@@ -20,3 +20,4 @@ Latest news is that Kabirou almost had a heart attack, when it became clear that
 It was also a pleasure to see [Anja Blumert](mailto:anja.blumert@millicom.com ) at our site. Mrs. Blumert, you are always very welcome, but the next couple of days you can miss, there will be nothing new for you there.
 
 Thanks again for being with us, let's move forward!
+<hr>

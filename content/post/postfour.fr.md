@@ -22,3 +22,4 @@ En analysant le trafic de notre site web, j'ai constaté que les gars de "[Skadd
 C'était également un très grand plaisir d'apercevoir  [Anja Blumert](mailto:anja.blumert@millicom.com) sur notre site. Sachez, Mme Blumert, que vous serez toujours la bienvenue, mais pour les deux prochains jours il n'y aura rien de nouveau pour vous ici.
 <br></br>
 Merci encore d'être avec nous! Il est temps d'aller de l'avant!
+<hr>
