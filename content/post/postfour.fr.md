@@ -7,7 +7,7 @@ tags = [
     "Tigo",
 ]
 +++
-<br></br>
+
 Chers amis et co-membres, je tiens à vous remercier pour votre soutien chaleureux. Je ne pouvais pas imaginer que notre héros était si populaire en  Senegal. Depuis vendredi, j'ai reçu plus de 5 000 visiteurs  et près de 450 nouveaux abonnements à l'infolettre.
 <!--more-->
 
