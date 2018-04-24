@@ -1,6 +1,6 @@
 +++
 date = "2018-04-24T08:29:26+00:00"
-title = "Wasabi"
+title = "Wasabi Project"
 tags = [
     "Tigo",
     "Wari",
@@ -70,8 +70,11 @@ The project is supported by detailed business plans, which look really cool on p
 - And now the forecast for 2018 is ... 187 millions of transactions. Later on, we'll dig into Wari's 2018 statistics and see, what's actually happening. I am waiting for the end of April, to give you the full picture for the first 4 months, but it's not even close. That's why, by the way, more recent business plans by Wari are are not so optimistic.
 
 Below you'll see the rest of the documents about Wari-Tigo-Vodafone. Those were really sweet dreams, n'est-ce pas, Kabirou?
+
 - [170921 Wari business plan - 21Sept2017](https://res.cloudinary.com/vincentstradic/image/upload/v1524480545/postsix/170921_Wari_business_plan_-_21Sept2017.pdf)
+
 - [170921 Wari Business plan - financial model](https://res.cloudinary.com/vincentstradic/raw/upload/v1524480545/postsix/170921_Wari_Business_plan_-_financial_model.xlsx)
+
 - [Wari-Tigo consolidated](https://res.cloudinary.com/vincentstradic/raw/upload/v1524480545/postsix/Wari-Tigo_consolidated.xlsx)
 
 <hr>

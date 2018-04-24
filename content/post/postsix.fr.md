@@ -1,6 +1,6 @@
 +++
 date = "2018-04-24T08:29:26+00:00"
-title = "Wasabi"
+title = "Projet Wasabi"
 tags = [
     "Tigo",
     "Wari",
@@ -62,16 +62,24 @@ Laissez-moi maintenant vous présenter le projet "Wasabi":
 Comme vous pouvez le constater, le point clé du plan est de donner un contrôle total sur Tigo à Vodafone, ce qui est tout de même logique, car…  bien sûr, Wari n'a aucune idée sur la façon de gérer un opérateur cellulaire.
 
 Le projet est soutenu par des business plans détaillés qui ont l'air vraiment cool sur papier, mais qui n'ont malheureusement rien à voir avec la réalité (comme la plupart des documents publiés par Wari). Laissez-moi vous expliquer:
+
 -	98% des revenus de Wari proviennent de transactions. Plus de transactions, plus de revenus, moins de transactions … vous comprenez ...
+
 - Selon le business plan, il y a eu 97 millions de transactions en 2016. Supposons que c'est vrai.
+
 -	Le même business plan nous révèle qu'en 2017 il y aura 133 millions de transactions. Rappelons que ce plan a été finalisé le 21 septembre 2017, ce qui signifie que Wari possédait déjà les statistiques pour les 2/3 de l'année.
+
 -	Maintenant, imaginez ceci: au cours des 8 premiers mois de 2017, Wari a déclaré 61,5 millions de transactions. Nous devons donc croire que dans les 4 mois restants, Wari fera encore 72 millions de transactions. Vraiment? Et bien non.
+
 -	Présentement, les prévisions pour 2018 sont de ... 187 millions de transactions. Plus tard, nous allons décortiquer davantage les statistiques 2018 de Wari et découvrir ce qui se passe réellement. J'attends la fin avril dans le but de vous donner une image plus complète de ces 4 premiers mois, mais croyez-moi, nous sommes encore très loin du compte. C'est pourquoi, soit dit en passant, que les business plans plus récents émis par Wari ne sont pas si optimistes.
 
 
 Vous trouverez ci-dessous le reste des documents sur Wari-Tigo-Vodafone. Il s'agissait plutôt de beaux rêves bercés d'illusions n'est-ce pas, Kabirou?
+
 - [170921 Wari business plan - 21Sept2017](https://res.cloudinary.com/vincentstradic/image/upload/v1524480545/postsix/170921_Wari_business_plan_-_21Sept2017.pdf)
+
 - [170921 Wari Business plan - financial model](https://res.cloudinary.com/vincentstradic/raw/upload/v1524480545/postsix/170921_Wari_Business_plan_-_financial_model.xlsx)
+
 - [Wari-Tigo consolidated](https://res.cloudinary.com/vincentstradic/raw/upload/v1524480545/postsix/Wari-Tigo_consolidated.xlsx)
 
 <hr>
