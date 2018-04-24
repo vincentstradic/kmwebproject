@@ -1,6 +1,6 @@
 +++
 date = "2018-04-25T08:29:26+00:00"
-title = "Some more Vodafone today"
+title = "More Vodafone today"
 tags = [
     "Vodafone",
     "Wari",
@@ -27,10 +27,16 @@ Please, meet [Laxman Karnam](mailto:laxman.karnam@vodafone.com), Director Strate
 
 Mr. Karnam wrote a [detailed report on these meetings](https://res.cloudinary.com/vincentstradic/image/upload/v1524484343/postseven/Senegal_Visit_-_notes_March_2018_ver_1.0.pdf) and shared it with Kabirou (being good friends and all). The report is in English only.
 
-Just a small fun fact for you: Mr. Laxman Karman mentioned in his report that the meeting with Faheen Allibhoy was organized by Kabirou on a very short notice. Well, this was easy for Kabirou - for the past 11 years Mme Allibhoy has been managing the mother of Kabirou's fourth kid, Margrit Nzuki, who works as Investment Officer in the Senegalese branch of International Finance Corporation. They are not formally married however - I guess, Kabirou is saving himself for someone else... ;)
+Just a small fun fact for you: Mr. Laxman Karman mentioned in his report that the meeting with Faheen Allibhoy was organized by Kabirou on a very short notice. Well, this was easy for Kabirou - for the past 11 years Mme Allibhoy has worked together with Margrit Nzuki, Investment Officer in the Senegalese branch of International Finance Corporation and the mother of Kabirou's fourth kid. They are not formally married though - I guess, Kabirou is saving himself for another... ;)
 
 The second piece also comes from Vodafone, and it's a perfect demonstration of Kabirou's attitude to his partners:
 
-I guess, no explanation is needed on this one. The usual tactics of Kabirou: use people, then fuck them (pardon my Swahili). We'll see a lot of such examples in the future. I guess, this is exactly why we are all here, members of Kabirou Mbodje Fan-Club!
+<div class="container" style="width:auto">
+  <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1524484275/postseven/seven_pic_1.jpg">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1524484275/postseven/seven_pic_1.jpg" style="max-width:100%">
+  </a>
+</div>
+<p>
+I guess, no explanation is needed on this one. The usual tactics of Kabirou: use people, then fuck them (pardon my Swahili). We'll see a lot of such examples in the future. I guess, this is exactly why we are all here, members of Kabirou Mbodje Fan-Club!</p>
 
 Stay tuned!
