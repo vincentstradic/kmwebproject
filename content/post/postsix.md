@@ -58,10 +58,15 @@ And now I'm introducing "Project Wasabi":
 As you see, the key point of the plan is to give full control over Tigo to Vodafone, which is quite logical, because, of course, Wari doesn't have a clue about how to manage a cellular operator.
 
 The project is supported by detailed business plans, which look really cool on paper, but unfortunately have nothing to do with reality (as most of the materials Wari publishes). Let me explain this to you:
+
 - 98% of Wari revenue comes from transactions. More transactions, more revenue, less transactions - you got it...
+
 - According to the business plan, there were 97 million transactions in 2016. Let's assume it's true.
+
 - The same business plan says that in 2017 there will be 133 millions of transactions. This plan was finalized on September 21, 2017, which means, Wari already had the statistics for 2/3 of the year.
+
 - Now, imagine this: during the first 8 months of 2017 Wari reported 61.5 million transactions. So we have to believe, that somehow in the remaining 4 months Wari will make another 72 million transactions. Really? Well, no.
+
 - And now the forecast for 2018 is ... 187 millions of transactions. Later on, we'll dig into Wari's 2018 statistics and see, what's actually happening. I am waiting for the end of April, to give you the full picture for the first 4 months, but it's not even close. That's why, by the way, more recent business plans by Wari are are not so optimistic.
 
 Below you'll see the rest of the documents about Wari-Tigo-Vodafone. Those were really sweet dreams, n'est-ce pas, Kabirou?
