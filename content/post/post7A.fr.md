@@ -1,7 +1,7 @@
 
 +++
 date = "2018-04-25T11:29:26+00:00"
-title = "Comment Kabirou s'y est pris pour tromper deux gouvernements africains en même temps."
+title = "Comment Kabirou s'y est pris pour tromper deux gouvernements africains en même temps"
 tags = [
     "Kabirou",
     "Senegal",

@@ -1,37 +1,36 @@
 +++
 date = "2018-04-27T08:29:26+00:00"
-title = "Notary at your service"
+title = "Notaire à votre service"
 tags = [
     "fraud",
     "Wari",
 ]
 +++
 
-No new bids today, I'm starting to negotiate the conditions with the highest bidder. Will keep you posted.  
 
-Today I have a different story for you. It's also about fake documents, but this time Wari made them. The story is told in three small acts:
+Aujourd'hui, j'ai une histoire différente pour vous. Il s'agit également de faux documents, mais cette fois-ci Wari les a fabriqués de toute pièce. Cette histoire est composée de trois actes:
 
 <!--more-->
 
-Act 1. A document:
+Acte 1. Un document:
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1524497439/postnine/post_nine_pic_1.jpg">
     <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1524497439/postnine/post_nine_pic_1.jpg" style="max-width:100%">
   </a>
 </div>
 <br></br>
-I should mention that this whole document is a lie, because the account 801-411596-838 does not belong to Wari (Togo). And, contrary to what the ex-Wari shareholders say, it doesn't belong to Wari Limited.
+Je dois mentionner que tout ce document est un mensonge, car le compte 801-411596-838 n'appartient pas à Wari (Togo). Et contrairement à ce que disent les ex-actionnaires de Wari, il n'appartient pas non plus à Wari LIMITED.
 
-The actual owner of this account is SMARTWORLDS Ltd. company, the private pocket of Kabirou (see [one of my previous posts](http://warileaks.com/the-structure-of-wari-group/)). But let's move on with the story.
+Le propriétaire actuel de ce compte est la société SMARTWORLDS, soit le portefeuille privé de Kabirou (voir [l'une de mes publications précédentes](http://warileaks.com/the-structure-of-wari-group/)). Mais retournons à notre histoire si vous le voulez bien.
 
-Act 2. A letter:
+Acte 2. Une lettre:
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1524497952/postnine/post_nine_pic_2.jpg">
     <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1524497952/postnine/post_nine_pic_2.jpg" style="max-width:100%">
   </a>
 </div>
 <br></br>
-Act 3. Et voilà - another document:
+Acte 3 - Conclusion: un autre document :
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1524497438/postnine/post_nine_pic_3.jpg">
     <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1524497438/postnine/post_nine_pic_3.jpg" style="max-width:100%">
@@ -45,8 +44,8 @@ Act 3. Et voilà - another document:
 <br></br>
 Finita la comedia.
 
-Now, remember this guy, [Maitre Têtê WILSON-BAHUN](mailto:tetewils3@gmail.com), a very helpful notary, ready to sign whatever he's asked to sign. Together with Pape Magatte Diop he was involved in a huge corruption scheme. It's amazing, how shameless these guys are. I'm writing a story on that, you'll see it soon.
+Souvenez-vous de ce type, [Maitre Têtê WILSON-BAHUN](mailto:tetewils3@gmail.com), un notaire très utile qui est prêt à signer tout ce qu'on lui demande de signer. Avec Pape Magatte Diop il était impliqué dans un énorme plan de corruption. C'est incroyable à quel point ces hommes sont effrontés. J'écris d'ailleurs une histoire sur le sujet que vous entendrez bientôt.
 
-Stay tuned and have a good weekend!
+Restez à l'écoute!
 
 <hr>

@@ -1,7 +1,7 @@
 
 +++
 date = "2018-04-25T11:29:26+00:00"
-title = "How Kabirou is fooling two African governments at the same time."
+title = "How Kabirou is fooling two African governments at the same time"
 tags = [
     "Kabirou",
     "Senegal",
