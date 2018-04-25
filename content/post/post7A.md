@@ -9,7 +9,7 @@ tags = [
 ]
 +++
 
-This is the most important post so far. And I need everybody's help to publicize it as much as possible.
+This is the most important post so far. And I need everybody's help to make it public as much as possible.
 <!--more-->
 
 I have two documents for you. The first one is:
