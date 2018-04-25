@@ -7,7 +7,7 @@ tags = [
 ]
 +++
 
-No new bids today, I'm starting to negotiate the conditions with the highest bidder. Will keep you posted.
+No new bids today, I'm starting to negotiate the conditions with the highest bidder. Will keep you posted.  
 
 Today I have a different story for you. It's also about fake documents, but this time Wari made them. The story is told in three small acts:
 

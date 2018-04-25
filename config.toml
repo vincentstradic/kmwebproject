@@ -53,7 +53,10 @@ defaultContentLanguage = "en"
 [params]
   # Main sections (currently used for the recent posts in the sidebar)
   mainSections = ["post"]
-
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
   # Default author
   # author = "John Doe"
 
