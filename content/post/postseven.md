@@ -8,6 +8,7 @@ tags = [
 ]
 +++
 
+
 Today we give special welcome to [**L’Office National de lutte contre la Fraude et Corruption**](http://ofnac.sn/), who joined our club recently. Gentlemen, you are very welcome and if you ever need anything - just let me know, I guarantee full transparency at all times!
 
 <!--more-->
