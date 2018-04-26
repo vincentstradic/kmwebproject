@@ -15,10 +15,10 @@ Nous savons tous que Kabirou est riche. Mais quel est le montant de sa richesse?
     <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1523983420/DECLARATION_PATRIMOINE_bholox.jpg" style="max-width:100%">
   </a>
 </div>
-<!--more-->
+
 
 Commençons par un document somme toute très simple, sa Déclaration de patrimoine  (<a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1523977187/DECLARATION_PATRIMOINE_rawizo.pdf">version PDF</a>), qui est censé couvrir l'ensemble de ses actifs. Comme nous l'apprendrons plus tard, ce document n'est ni complet, ni correct.
-
+<!--more-->
 Lorsqu'on lui pose des questions par rapport à sa fortune personnelle, les réponses données par Kabirou dépendent beaucoup de qui demande et ces mêmes réponses peuvent également être très surprenantes. Les versions sont tellement nombreuses que nous n'apprendrons probablement jamais toute la vérité. Voyons par exemple, ce qu'il a dit à l'une des banques au sujet de ses revenus, tout en essayant d'obtenir une marge de crédit personnelle:
 
 - Salaire en Wari: 20 millions CFA mensuellement
@@ -35,7 +35,7 @@ Lorsqu'on lui pose des questions par rapport à sa fortune personnelle, les rép
   </a>
 </div>
 <br></br>
-- Salaire en CSI: conformément à [ce document](https://res.cloudinary.com/vincentstradic/image/upload/v1524129448/csi_salary_xzamwo.pdf) dans 2018 son salaire mensuel devrait être 21 millions CFA.
+- Salaire en CSI: conformément à <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1524129448/csi_salary_xzamwo.pdf">contrat de Kabirou</a> dans 2018 son salaire mensuel devrait être 21 millions CFA.
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1524133649/csi_salary_extract_ug7yai.jpg">
     <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1524133649/csi_salary_extract_ug7yai.jpg" style="max-width:100%">
