@@ -1,5 +1,5 @@
 +++
-date = "2018-04-26T09:29:26+00:00"
+date = "2018-04-25T09:29:26+00:00"
 title = "Plus de Vodafone et une introduction à la famille de Kabirou"
 tags = [
     "Vodafone",
