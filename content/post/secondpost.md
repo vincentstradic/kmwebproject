@@ -1,5 +1,5 @@
 +++
-date = "2018-04-19T10:29:26+00:00"
+date = "2018-04-24T10:29:26+00:00"
 title = "The young tycoon of Senegal"
 tags = [
     "Kabirou",
@@ -9,13 +9,12 @@ tags = [
 
 We all know that Kabirou is rich. But how rich? Let's see.
 
-<!--more-->
-
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1523983420/DECLARATION_PATRIMOINE_bholox.jpg">
     <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1523983420/DECLARATION_PATRIMOINE_bholox.jpg" style="max-width:100%">
   </a>
 </div>
+<!--more-->
 
 We'll start with a very simple document, his Declaration Patrimoine (<a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1523977187/DECLARATION_PATRIMOINE_rawizo.pdf">pdf version</a>), which is supposed to  cover all of his assets. As we'll learn later, it's neither complete, nor correct.
 

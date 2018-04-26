@@ -1,5 +1,5 @@
 +++
-date = "2018-04-19T10:29:26+00:00"
+date = "2018-04-24T10:29:26+00:00"
 title = "Jeune entrepreneur Sénégalais"
 tags = [
     "Kabirou",
@@ -9,13 +9,13 @@ tags = [
 
 Nous savons tous que Kabirou est riche. Mais quel est le montant de sa richesse? Voyons voir.
 
-<!--more-->
 
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1523983420/DECLARATION_PATRIMOINE_bholox.jpg">
     <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1523983420/DECLARATION_PATRIMOINE_bholox.jpg" style="max-width:100%">
   </a>
 </div>
+<!--more-->
 
 Commençons par un document somme toute très simple, sa Déclaration de patrimoine  (<a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1523977187/DECLARATION_PATRIMOINE_rawizo.pdf">version PDF</a>), qui est censé couvrir l'ensemble de ses actifs. Comme nous l'apprendrons plus tard, ce document n'est ni complet, ni correct.
 
