@@ -1,6 +1,6 @@
 +++
 date = "2018-04-26T09:29:26+00:00"
-title = "Some more Vodafone and introduction to Kabirou's family"
+title = "More Vodafone and an introduction to Kabirou's family"
 tags = [
     "Vodafone",
     "Wari",

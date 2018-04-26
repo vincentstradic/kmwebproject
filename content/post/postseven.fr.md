@@ -1,9 +1,10 @@
 +++
 date = "2018-04-26T09:29:26+00:00"
-title = "Un peu plus de Vodafone et une introduction à la famille de Kabirou"
+title = "Plus de Vodafone et une introduction à la famille de Kabirou"
 tags = [
     "Vodafone",
     "Wari",
+    "Family",
 ]
 +++
 
@@ -17,7 +18,7 @@ S'il vous plaît, soyez assuré que je lis tous les emails envoyés info@warilea
 
 Aujourd'hui, je vais ajouter quelques coups de plus sur la coopération Wari-Vodafone. Deux documents pour vous, tous deux provenant de Vodafone.
 
-Je vous invite à rencontrer [Laxman Karnam](mailto:laxman.karnam@vodafone.com), Director Strategic Partnerships em Afrique pour [Vodafone](https://www.vodafone.com/). Il a visité Senegal en Mars de cette année et selon lui, a fait beaucoup de lobbying pour Wari. En trois jours, il a rencontré:
+Je vous invite à rencontrer [Laxman Karnam](mailto:laxman.karnam@vodafone.com), Director Strategic Partnerships en Afrique pour [Vodafone](https://www.vodafone.com/). Il a visité Senegal en Mars de cette année et selon lui, a fait beaucoup de lobbying pour Wari. En trois jours, il a rencontré:
 
 - HMA George Hodgson, Ambassadeur britannique au Senegal
 
@@ -31,7 +32,7 @@ Je vous invite à rencontrer [Laxman Karnam](mailto:laxman.karnam@vodafone.com),
 
 - Faheen Allibhoy, Manager National pour Senegal - International Finance Corporation.
 
-Mr. Karnam wrote a écrit un rapport pour le moins détaillé sur ces réunions qui a partagé avec Kabirou (qui sont de très bons amis). [Voir le rapport ici](https://res.cloudinary.com/vincentstradic/image/upload/v1524484343/postseven/Senegal_Visit_-_notes_March_2018_ver_1.0.pdf) (disponible en anglais seulement).
+Mr. Karnam a écrit un rapport détaillé sur ces réunions qui a partagé avec Kabirou (qui sont de très bons amis). [Voir le rapport ici](https://res.cloudinary.com/vincentstradic/image/upload/v1524484343/postseven/Senegal_Visit_-_notes_March_2018_ver_1.0.pdf) (disponible en anglais seulement).
 
 Un petit fait amusant pour vous: Mr. Laxman Karman a mentionné dans son rapport que la réunion avec Faheen Allibhoy a été organisée par Kabirou avec un très court préavis. Eh bien, c'était facile pour Kabirou puisque pour les 11 dernières années Mme Allibhoy a travaillé avec [**Margrit Nzuki**](mailto:mnzuki@ifc.org), Chef des investissements dans la branche Senegalese de International Finance Corporation et la mère du quatrième enfant de Kabirou. Remarquez qu'ils ne sont pas formellement mariés, mais je suppose Kabirou se sauver pour un autre ...;)
 
