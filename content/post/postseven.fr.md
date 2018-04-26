@@ -1,13 +1,13 @@
 +++
 date = "2018-04-26T09:29:26+00:00"
-title = "Plus sur Vodafone"
+title = "Un peu plus de Vodafone et une introduction à la famille de Kabirou"
 tags = [
     "Vodafone",
     "Wari",
 ]
 +++
 
-Aujourd'hui, nous souhaitons la bienvenue a **L’Office National de lutte contre la Fraude et Corruption**, qui a récemment rejoint notre club. Messieurs, sachez que vous êtes les bienvenus et que si vous avez besoin de quelque chose, je vous garantis une transparence totale en tout temps!
+Aujourd'hui, nous souhaitons la bienvenue a [**L’Office National de lutte contre la Fraude et Corruption**](http://ofnac.sn/), qui a récemment rejoint notre club. Messieurs, sachez que vous êtes les bienvenus et que si vous avez besoin de quelque chose, je vous garantis une transparence totale en tout temps!
 
 <!--more-->
 
@@ -33,7 +33,7 @@ Je vous invite à rencontrer [Laxman Karnam](mailto:laxman.karnam@vodafone.com),
 
 Mr. Karnam wrote a écrit un rapport pour le moins détaillé sur ces réunions qui a partagé avec Kabirou (qui sont de très bons amis). [Voir le rapport ici](https://res.cloudinary.com/vincentstradic/image/upload/v1524484343/postseven/Senegal_Visit_-_notes_March_2018_ver_1.0.pdf) (disponible en anglais seulement).
 
-Un petit fait amusant pour vous: Mr. Laxman Karman a mentionné dans son rapport que la réunion avec Faheen Allibhoy a été organisée par Kabirou avec un très court préavis. Eh bien, c'était facile pour Kabirou puisque pour les 11 dernières années Mme Allibhoy a travaillé avec **Mme Margrit Nzuki**, Chef des investissements dans la branche Senegalese de International Finance Corporation et la mère du quatrième enfant de Kabirou. Remarquez qu'ils ne sont pas formellement mariés, mais je suppose Kabirou se sauver pour un autre ...;)
+Un petit fait amusant pour vous: Mr. Laxman Karman a mentionné dans son rapport que la réunion avec Faheen Allibhoy a été organisée par Kabirou avec un très court préavis. Eh bien, c'était facile pour Kabirou puisque pour les 11 dernières années Mme Allibhoy a travaillé avec [**Margrit Nzuki**](mailto:mnzuki@ifc.org), Chef des investissements dans la branche Senegalese de International Finance Corporation et la mère du quatrième enfant de Kabirou. Remarquez qu'ils ne sont pas formellement mariés, mais je suppose Kabirou se sauver pour un autre ...;)
 
 Le deuxième élément vient aussi de Vodafone et je suppose que c'est une parfaite démonstration de l'attitude de Kabirou envers ses partenaires, aucune explication n'est nécessaire ici:
 

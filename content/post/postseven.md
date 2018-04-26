@@ -1,13 +1,14 @@
 +++
 date = "2018-04-26T09:29:26+00:00"
-title = "More Vodafone today"
+title = "Some more Vodafone and introduction to Kabirou's family"
 tags = [
     "Vodafone",
     "Wari",
+    "Family",
 ]
 +++
 
-Today we give special welcome to **L’Office National de lutte contre la Fraude et Corruption**, who joined our club recently. Gentlemen, you are very welcome and if you ever need anything - just let me know, I guarantee full transparency at all times!
+Today we give special welcome to [**L’Office National de lutte contre la Fraude et Corruption**](http://ofnac.sn/), who joined our club recently. Gentlemen, you are very welcome and if you ever need anything - just let me know, I guarantee full transparency at all times!
 
 <!--more-->
 
@@ -33,7 +34,7 @@ Please, meet [Laxman Karnam](mailto:laxman.karnam@vodafone.com), Director Strate
 
 Mr. Karnam wrote a detailed report on these meetings and shared it with Kabirou (being good friends and all). [The report](https://res.cloudinary.com/vincentstradic/image/upload/v1524484343/postseven/Senegal_Visit_-_notes_March_2018_ver_1.0.pdf) is in English only.
 
-Just a small fun fact for you: Mr. Laxman Karman mentioned in his report that the meeting with Faheen Allibhoy was organized by Kabirou on a very short notice. Well, this was easy for Kabirou - for the past 11 years Mme Allibhoy has worked together with **Margrit Nzuki**, Investment Officer in the Senegalese branch of International Finance Corporation and the mother of Kabirou's fourth kid. They are not formally married though - I guess, Kabirou is saving himself for another... ;)
+Just a small fun fact for you: Mr. Laxman Karman mentioned in his report that the meeting with Faheen Allibhoy was organized by Kabirou on a very short notice. Well, this was easy for Kabirou - for the past 11 years Mme Allibhoy has worked together with [**Margrit Nzuki**](mailto:mnzuki@ifc.org), Investment Officer in the Senegalese branch of International Finance Corporation and the mother of Kabirou's fourth kid. They are not formally married though - I guess, Kabirou is saving himself for another... ;)
 
 The second piece also comes from Vodafone, and it's a perfect demonstration of Kabirou's attitude to his partners. I guess, no explanation is needed on this one:
 
