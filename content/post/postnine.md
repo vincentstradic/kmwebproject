@@ -8,7 +8,7 @@ tags = [
 +++
 
 
-Today I have a different story for you. It's also about fake documents, but this time Wari made them. The story is told in three small acts:
+Today I have a different story for you. It's also about fake documents, but this time Wari made them. The story is told in three acts:
 
 <!--more-->
 
