@@ -8,7 +8,7 @@ tags = [
 +++
 
 
-Today I have a different story for you. It's also about fake documents, but this time Wari made them. The story is told in three acts:
+Today I have a different story for you, again about fake documents. The story is told in three acts:
 
 <!--more-->
 
@@ -21,7 +21,7 @@ Act 1. A document:
 <br></br>
 I should mention that this whole document is a lie, because the account 801-411596-838 does not belong to Wari (Togo). And, contrary to what the ex-Wari shareholders say, it doesn't belong to Wari Limited.
 
-The actual owner of this account is SMARTWORLDS Ltd. company, the private pocket of Kabirou (see [one of my previous posts](http://warileaks.com/the-structure-of-wari-group/)). But let's move on with the story.
+The actual owner of this account is SMARTWORLDS Ltd. company, the private pocket of Kabirou (see [my previous posts](http://warileaks.com/tags/smartworlds/)). But let's move on with the story.
 
 Act 2. A letter:
 <div class="container" style="width:auto">

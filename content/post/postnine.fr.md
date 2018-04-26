@@ -8,7 +8,7 @@ tags = [
 +++
 
 
-Aujourd'hui, j'ai une histoire différente pour vous. Il s'agit également de faux documents, mais cette fois-ci Wari les a fabriqués de toute pièce. Cette histoire est composée de trois actes:
+Aujourd'hui, j'ai une histoire différente pour vous, il s'agit également de faux documents. Cette histoire est composée de trois actes:
 
 <!--more-->
 
@@ -21,7 +21,7 @@ Acte 1. Un document:
 <br></br>
 Je dois mentionner que tout ce document est un mensonge, car le compte 801-411596-838 n'appartient pas à Wari (Togo). Et contrairement à ce que disent les ex-actionnaires de Wari, il n'appartient pas non plus à Wari LIMITED.
 
-Le propriétaire actuel de ce compte est la société SMARTWORLDS, soit le portefeuille privé de Kabirou (voir [l'une de mes publications précédentes](http://warileaks.com/the-structure-of-wari-group/)). Mais retournons à notre histoire si vous le voulez bien.
+Le propriétaire actuel de ce compte est la société SMARTWORLDS, soit le portefeuille privé de Kabirou (voir [mes publications précédentes](http://warileaks.com/fr/tags/smartworlds/)). Mais retournons à notre histoire si vous le voulez bien.
 
 Acte 2. Une lettre:
 <div class="container" style="width:auto">
