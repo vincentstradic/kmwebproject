@@ -8,6 +8,7 @@ tags = [
 ]
 +++
 
+
 Aujourd'hui, nous souhaitons la bienvenue a [**L’Office National de lutte contre la Fraude et Corruption**](http://ofnac.sn/), qui a récemment rejoint notre club. Messieurs, sachez que vous êtes les bienvenus et que si vous avez besoin de quelque chose, je vous garantis une transparence totale en tout temps!
 
 <!--more-->
