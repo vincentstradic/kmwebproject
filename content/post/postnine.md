@@ -8,7 +8,7 @@ tags = [
 +++
 
 
-Today I have a different story for you, again about fake documents. The story is told in three acts:
+Today I have a new story for you, again about fake documents. The story is told in three acts:
 
 <!--more-->
 

@@ -8,7 +8,7 @@ tags = [
 +++
 
 
-Aujourd'hui, j'ai une histoire différente pour vous, il s'agit également de faux documents. Cette histoire est composée de trois actes:
+Aujourd'hui, j'ai une histoire nouvelle pour vous, il s'agit également de faux documents. Cette histoire est composée de trois actes:
 
 <!--more-->
 
