@@ -15,7 +15,7 @@ theme = "hugo-bootstrap"
 
 
 # Google analytics
-# googleAnalytics = "UA-47268287-3"
+googleAnalytics = "UA-118325110-1"
 
 # Languages
 
