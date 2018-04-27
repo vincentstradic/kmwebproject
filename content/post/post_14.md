@@ -1,16 +1,16 @@
 +++
-date = "2018-04-27T09:29:26+00:00"
+date = "2018-05-02T10:29:26+00:00"  
 title = "Lost in lies"
 tags = [
-    "HSBC",
+    "Afreximbank",
     "Wari",
-    "SMARTWORLDS",
+    "Tigo",
 ]
 +++
 
 Hi, everyone, today another piece on the Wari-Tigo story.
 
-You well remember the Afreximbank, who "did not see any obstacles" to finance the Tigo deal, but did not show any money either. That was in August 2017.
+You well remember the Afreximbank, that "did not see any obstacles" to finance the Tigo deal, but did not show any money either. That was in August 2017.
 
 And then, out of nowhere, a strange story happened in March 2018. It begins with the letter from Dr. Benedict Okey Oramah, President of African Export–Import Bank (Afreximbank) to his employees:
 <div class="container" style="width:auto">

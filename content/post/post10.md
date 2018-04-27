@@ -8,7 +8,7 @@ tags = [
 +++
 
 While Kabirou is enjoying the Black Sea coast in Romania together with his friends [Isaac Gueye](https://res.cloudinary.com/vincentstradic/image/upload/v1524667135/post10/post10_pic2.jpg) and [Andreea Belba](https://res.cloudinary.com/vincentstradic/image/upload/v1524667135/post10/post10_pic1.jpg) (photos on click), let's reveal some truth about what actually was happening between Wari and Tigo from signing and up to terminating the share purchase agreement.
-
+<!--more-->
 The best source about this affair is Mr. Barthélemy Faye, who acted as legal advisor to Kabirou from Autumn 2016 till summer 2017. According to him, after a very brief and limited study of Tigo, Wari supplied their proposal in December with an exceptionally high price. By his estimation, the second best offer - from the Consortium - was less than $100 mln.
 
 During the actual negotiations of the purchase, they had to face our good friend, Anja Blumert of Millicom, who, according to Barthélemy, proved to be  extremely difficult to deal with. Even her key legal counsel had trouble keeping her in check. Way to go, Anja!
