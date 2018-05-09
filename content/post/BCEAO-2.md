@@ -13,4 +13,6 @@ A few days later, Mr. Diaby ABOUBACAR with a number of BCEAO officials and again
 
 <!--more-->
 
+Later on, we'll discuss how Wari responded to the requirements from BCEAO. 
+
 <hr>

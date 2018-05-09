@@ -15,4 +15,6 @@ M. DiABY nous a laissé un document détaillé avec le releve des conclusions. M
 
 <!--more-->
 
+Plus tard, nous verrons comment Wari a répondu aux exigences de la BCEAO.
+
 <hr>
