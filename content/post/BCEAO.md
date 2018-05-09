@@ -19,6 +19,6 @@ End of December last year, Kabirou Mbodje met with Senergal National Director of
 
 [**These**](https://res.cloudinary.com/vincentstradic/image/upload/v1525872004/work/RELEVE_DES_CONCLUSIONS_DE_LA_RENCONTRE_AVEC_LE_DIRECTEUR_NATIONAL_DE_LA_BCEAO_POUR_LE_SENEGAL_FICHE_7_.doc.pdf) are very detailed notes from this meeting, shedding light on many events that happened afterwards. Interesting reading, enjoy (_French only_)!
 
-
+To be continued tomorrow with much more.
 
 <hr>

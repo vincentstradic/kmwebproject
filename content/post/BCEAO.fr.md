@@ -16,6 +16,6 @@ L'objet de la demande de la visite auprès du Directeur National de la BCEAO po
 
 [**Ce document ci-joint**](https://res.cloudinary.com/vincentstradic/image/upload/v1525872004/work/RELEVE_DES_CONCLUSIONS_DE_LA_RENCONTRE_AVEC_LE_DIRECTEUR_NATIONAL_DE_LA_BCEAO_POUR_LE_SENEGAL_FICHE_7_.doc.pdf) contient releve des conclusions de cette rencontre. Il met en lumière de nombreux événements qui se sont produits par la suite. Lecture intéressante, profitez-en!
 
-
+A suivre demain avec plus.
 
 <hr>
