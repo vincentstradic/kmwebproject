@@ -1,5 +1,5 @@
 +++
-date = "2018-05-10T13:29:26+00:00"
+date = "2018-05-10T12:29:26+00:00"
 title = "Thanks to Wari!"
 tags = [
     "Wari",
@@ -20,7 +20,5 @@ On behalf of Kabirou Mbodje Fan-Club I would like to thank you for your promotio
 </div>
 <br>
 Keep up the good work!
-
-
 
 <hr>
