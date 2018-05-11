@@ -9,7 +9,7 @@ tags = [
 
 Cher Kabirou,
 
-Alors que la nation profite de la fête du Travail et que vous assistez à un festival de musique stupide quelques parts en Roumanie, je souhaite me rappeler de vos dernières vacances  à Tulum. Il y a quelques choses que je ne connais pas ou ne comprends pas, alors j'espérais que vous pourriez les clarifier pour moi...
+Je souhaite me rappeler de vos dernières vacances à Tulum. Il y a quelques choses que je ne connais pas ou ne comprends pas, alors j'espérais que vous pourriez les clarifier pour moi...
 <!--more-->
 
 Selon ce que je comprends, vous avez volé vers et hors de Tulum avec votre ami Issac Gueye. Vous avez payé 48 000 $ pour l'hôtel, puis 4 600 € pour une villa et 25 000 € pour une autre villa. Ensuite, vous avez déboursé 15 000 $ pour une table lors d'un festival de musique et 15 000 $ pour un autre événement musical…  J'en conclus que vous devez vraiment aimer la musique! Ou c'est peut-être Isaac qui aime la musique et que vous aimez simplement Isaac? Ça ne fait rien.
