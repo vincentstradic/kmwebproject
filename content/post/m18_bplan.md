@@ -17,7 +17,7 @@ Click on the image for full document:
 
 
 <!--more-->
-
+<br>
 
 Stay tuned!
 
