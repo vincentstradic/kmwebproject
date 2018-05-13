@@ -1,6 +1,6 @@
 +++
 date = "2018-06-13T09:29:26+00:00"
-title = "Kabirou lies to banks. As always"
+title = "Kabirou ment aux banques. Pas de surprise"
 tags = [
     "Kabirou",
     "property",
