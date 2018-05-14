@@ -35,6 +35,12 @@ tags = [
 </div>
 <hr>
 <div class="container" style="width:auto">
+  <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526312600/j20-6_lavmbr.jpg">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/bo_2px_solid_rgb:279d14/v1526312600/j20-6_lavmbr.jpg" style="max-width:100%">
+  </a>
+</div>
+<hr>
+<div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526219395/work/j20-5.jpg">
     <img src="https://res.cloudinary.com/vincentstradic/image/upload/bo_2px_solid_rgb:279d14/v1526219395/work/j20-5.jpg" style="max-width:100%">
   </a>
