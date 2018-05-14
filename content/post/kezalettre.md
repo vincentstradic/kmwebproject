@@ -3,7 +3,7 @@ date = "2018-05-14T09:29:26+00:00"
 title = "One night in Paris"
 tags = [
     "Kabirou",
-    "property",
+    "family",
 ]
 +++
 
