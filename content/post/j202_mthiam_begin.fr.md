@@ -1,6 +1,6 @@
 +++
 date = "2018-06-20T10:29:26+00:00"
-title = "The stupid"
+title = "Le stupide"
 tags = [
     "Wari",
     "internal",
