@@ -10,8 +10,8 @@ tags = [
 Juste une lettre, écrite par Kabirou lui-même, concernant son penthouse à Dakar.
 
 <div class="container" style="width:auto">
-  <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1525858871/family/axa_lettre.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1525858871/family/axa_lettre.jpg" style="max-width:100%">
+  <a target="blank" href="https://image.ibb.co/kVQSDy/axa_lettre.jpg">
+    <img src="https://image.ibb.co/kVQSDy/axa_lettre.jpg" style="max-width:100%">
   </a>
 </div>
 <br>

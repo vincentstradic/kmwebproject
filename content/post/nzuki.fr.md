@@ -7,8 +7,8 @@ tags = [
 ]
 +++
 <div class="container" style="width:auto">
-  <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1525861905/family/nzukipic.jpg">
-    <img src="http://res.cloudinary.com/vincentstradic/image/upload/c_scale,q_100,w_195/v1525861905/family/nzukipic.jpg" style="max-width:100%">
+  <a target="blank" href="https://image.ibb.co/myW66J/nzukipic.jpg">
+    <img src="https://image.ibb.co/myW66J/nzukipic.jpg" style="max-width:100%">
   </a>
 </div>
 <br>

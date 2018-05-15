@@ -12,8 +12,8 @@ I keep my promise and start publishing info on Kabirou's family - because I can,
 
 Meet Christine Ngiriye, who for the precious 15 months was the wife of our hero. Looks very nice for her 44, doesn't she?
 <div class="container" style="width:auto">
-  <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1525772451/family/Christine_photo.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1525772451/family/Christine_photo.jpg" style="max-width:100%">
+  <a target="blank" href="https://image.ibb.co/i744ty/Christine_photo.jpg">
+    <img src="https://image.ibb.co/i744ty/Christine_photo.jpg" style="padding:1px;border:thin solid green;max-width:100%">
   </a>
 </div>
 <!--more-->
@@ -26,22 +26,22 @@ Below are some documents, if you're interested:
 <br>
 Passport:
 <div class="container" style="width:auto">
-  <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1525772983/family/Christine_passeport_pic.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1525772983/family/Christine_passeport_pic.jpg" style="max-width:100%">
+  <a target="blank" href="https://image.ibb.co/kAkAYy/Christine_passeport_pic.jpg">
+    <img src="https://image.ibb.co/kAkAYy/Christine_passeport_pic.jpg" style="padding:1px;border:thin solid green;max-width:100%">
   </a>
 </div>
 <br>
 Marriage:
 <div class="container" style="width:auto">
-  <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1525773099/family/Christine_marriage_pic.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1525773099/family/Christine_marriage_pic.jpg" style="max-width:100%">
+  <a target="blank" href="https://image.ibb.co/jdrHDy/Christine_marriage_pic.jpg">
+    <img src="https://image.ibb.co/jdrHDy/Christine_marriage_pic.jpg" style="padding:1px;border:thin solid green;max-width:100%">
   </a>
 </div>
 <br>
 Divorce:
 <div class="container" style="width:auto">
-  <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1525772888/family/Christine_divorce_pic.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1525772888/family/Christine_divorce_pic.jpg" style="max-width:100%">
+  <a target="blank" href="https://image.ibb.co/kznJLd/Christine_divorce_pic.jpg">
+    <img src="https://image.ibb.co/kznJLd/Christine_divorce_pic.jpg" style="padding:1px;border:thin solid green;max-width:100%">
   </a>
 </div>
 [PDF version](https://res.cloudinary.com/vincentstradic/image/upload/v1525772452/family/Christine_divorce.pdf)

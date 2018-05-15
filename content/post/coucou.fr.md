@@ -12,8 +12,8 @@ Comment obtenir de l'argent de Kabirou? Facile! Écrivez-lui une belle lettre:</
 <!--more-->
 
 <div class="container" style="width:auto">
-  <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1525867643/family/coucou-3.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1525867643/family/coucou-3.jpg" style="max-width:100%">
+  <a target="blank" href="https://image.ibb.co/e5seRJ/coucou_3.jpg">
+    <img src="https://image.ibb.co/e5seRJ/coucou_3.jpg" style="padding:1px;border:thin solid green;max-width:100%">
   </a>
 </div>
 <br>
@@ -21,8 +21,8 @@ Qui est ce Mimi? En fait, pas 'Mimi' du tout! S'il vous plaît, rencontrer Espé
 
 Et voila, votre souhait est accordé:
 <div class="container" style="width:auto">
-  <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1525866754/family/coucou-2.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1525866754/family/coucou-2.jpg" style="max-width:100%">
+  <a target="blank" href="https://image.ibb.co/kU3a0d/coucou_2.jpg">
+    <img src="https://image.ibb.co/kU3a0d/coucou_2.jpg" style="padding:1px;border:thin solid green;max-width:100%">
   </a>
 </div>
 <br>

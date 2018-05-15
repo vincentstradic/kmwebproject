@@ -8,8 +8,8 @@ tags = [
 +++
 
 <div class="container" style="width:auto">
-  <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1525781321/family/Keza_pic.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1525781321/family/Keza_pic.jpg" style="max-width:100%">
+  <a target="blank" href="https://image.ibb.co/k8aYmJ/Keza_pic.jpg">
+    <img src="https://image.ibb.co/k8aYmJ/Keza_pic.jpg" style="padding:1px;border:thin solid green;max-width:100%">
   </a>
 </div>
 <br>
@@ -23,8 +23,8 @@ Née à DAKAR (SENEGAL) le 21 septembre 1996.
 Célibataire.
 De nationalité française.
 <div class="container" style="width:auto">
-  <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1525782301/family/Keza.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1525782301/family/Keza.jpg" style="max-width:100%">
+  <a target="blank" href="https://image.ibb.co/cw5oLd/Keza.jpg">
+    <img src="https://image.ibb.co/cw5oLd/Keza.jpg" style="padding:1px;border:thin solid green;max-width:100%">
   </a>
 </div>
 <br>
@@ -33,16 +33,16 @@ Né à DAKAR (SENEGAL) le 26 juin 1998.
 Célibataire.
 De nationalité Française.
 <div class="container" style="width:auto">
-  <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1525782302/family/Kysma.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1525782302/family/Kysma.jpg" style="max-width:100%">
+  <a target="blank" href="https://image.ibb.co/f3oVYy/Kysma.jpg">
+    <img src="https://image.ibb.co/f3oVYy/Kysma.jpg" style="padding:1px;border:thin solid green;max-width:100%">
   </a>
 </div>
 <br>
 3. Monsieur Mohamed Kébir Nadjirou, Alexandre M'BODJE, collégien, demeurant à DAKAR (SENEGAL), 5 Place de l'Indépendance.
 Né à DAKAR (SENEGAL), le 23 août 2003.
 <div class="container" style="width:auto">
-  <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1525782300/family/Kebir.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1525782300/family/Kebir.jpg" style="max-width:100%">
+  <a target="blank" href="https://image.ibb.co/cyK4ty/Kebir.jpg">
+    <img src="https://image.ibb.co/cyK4ty/Kebir.jpg" style="padding:1px;border:thin solid green;max-width:100%">
   </a>
 </div>
 <br>
@@ -51,8 +51,8 @@ Née à DAKAR (SENEGAL) le 29 septembre 2011. Titulaire du passeport allemand nu
 dix-sept, valable jusqu’au dix-neuf janvier deux mille vingt-trois.
 De nationalité Allemande
 <div class="container" style="width:auto">
-  <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1525782300/family/Karla.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1525782300/family/Karla.jpg" style="max-width:100%">
+  <a target="blank" href="https://image.ibb.co/dDAoLd/Karla.jpg">
+    <img src="https://image.ibb.co/dDAoLd/Karla.jpg" style="padding:1px;border:thin solid green;max-width:100%">
   </a>
 </div>
 <br>

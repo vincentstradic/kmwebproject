@@ -30,32 +30,32 @@ Why am I publishing a draft? Because, as far as I know, this idea was never full
 
 But why publish this at all then? Because this document, written by a brilliant lawyer from "McDermott Will & Emery" shows with perfect clearness all the weak spots in Wari's position. The comments to this document are more precious, than the document itself. Now let's see some abstracts from the doc:
 <div class="container" style="width:auto">
-  <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1524842948/post_17/p_17_p_1.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1524842948/post_17/p_17_p_1.jpg" style="max-width:100%">
+  <a target="blank" href="https://image.ibb.co/noa8mJ/p_17_p_1.jpg">
+    <img src="https://image.ibb.co/noa8mJ/p_17_p_1.jpg" style="max-width:100%">
   </a>
 </div>
 <br>
 <div class="container" style="width:auto">
-  <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1524842948/post_17/p_17_p_2.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1524842948/post_17/p_17_p_2.jpg" style="max-width:100%">
+  <a target="blank" href="https://image.ibb.co/ckyiLd/p_17_p_2.jpg">
+    <img src="https://image.ibb.co/ckyiLd/p_17_p_2.jpg" style="max-width:100%">
   </a>
 </div>
 <br>
 <div class="container" style="width:auto">
-  <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1524842948/post_17/p_17_p_3.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1524842948/post_17/p_17_p_3.jpg" style="max-width:100%">
+  <a target="blank" href="https://image.ibb.co/fziB6J/p_17_p_3.jpg">
+    <img src="https://image.ibb.co/fziB6J/p_17_p_3.jpg" style="max-width:100%">
   </a>
 </div>
 <br>
 <div class="container" style="width:auto">
-  <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1524842948/post_17/p_17_p_4.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1524842948/post_17/p_17_p_4.jpg" style="max-width:100%">
+  <a target="blank" href="https://image.ibb.co/b14vYy/p_17_p_4.jpg">
+    <img src="https://image.ibb.co/b14vYy/p_17_p_4.jpg" style="max-width:100%">
   </a>
 </div>
 <br>
 <div class="container" style="width:auto">
-  <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1524842948/post_17/p_17_p_5.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1524842948/post_17/p_17_p_5.jpg" style="max-width:100%">
+  <a target="blank" href="https://image.ibb.co/cC3B6J/p_17_p_5.jpg">
+    <img src="https://image.ibb.co/cC3B6J/p_17_p_5.jpg" style="max-width:100%">
   </a>
 </div>
 <br>

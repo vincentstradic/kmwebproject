@@ -16,18 +16,18 @@ Hi, everyone! I made a promise and now I need to keep it. So here you go:
 
 On behalf of the Kabirou Mbodje Fan Club, I would be grateful if you could answer a simple question for us. Below you'll see three documents, all three signed by you and Kabirou Mbodje. But while your signatures look identical, Kabirou's are somehow different:
 <div class="container" style="width:auto">
-  <a target="blank" href="http://res.cloudinary.com/vincentstradic/image/upload/bo_2px_solid_rgb:2a14dd/v1524671056/psto13/ardian1.jpg">
-    <img src="http://res.cloudinary.com/vincentstradic/image/upload/bo_2px_solid_rgb:2a14dd/v1524671056/psto13/ardian1.jpg" style="max-width:100%">
+  <a target="blank" href="https://image.ibb.co/fzGTLd/ardian1.jpg">
+    <img src="https://image.ibb.co/fzGTLd/ardian1.jpg" style="padding:1px;border:thin solid green;max-width:100%">
   </a>
 </div>
 <div class="container" style="width:auto">
-  <a target="blank" href="http://res.cloudinary.com/vincentstradic/image/upload/bo_2px_solid_rgb:191cbb/v1524671056/psto13/ardian2.jpg">
-    <img src="http://res.cloudinary.com/vincentstradic/image/upload/bo_2px_solid_rgb:191cbb/v1524671056/psto13/ardian2.jpg" style="max-width:100%">
+  <a target="blank" href="https://image.ibb.co/nEceRJ/ardian2.jpg">
+    <img src="https://image.ibb.co/nEceRJ/ardian2.jpg" style="padding:1px;border:thin solid green;max-width:100%">
   </a>
 </div>
 <div class="container" style="width:auto">
-  <a target="blank" href="http://res.cloudinary.com/vincentstradic/image/upload/bo_2px_solid_rgb:2a3ab9/v1524671056/psto13/ardian3.jpg">
-    <img src="http://res.cloudinary.com/vincentstradic/image/upload/bo_2px_solid_rgb:2a3ab9/v1524671056/psto13/ardian3.jpg" style="max-width:100%">
+  <a target="blank" href="https://image.ibb.co/dxH2fd/ardian3.jpg">
+    <img src="https://image.ibb.co/dxH2fd/ardian3.jpg" style="padding:1px;border:thin solid green;max-width:100%">
   </a>
 </div>
 <br></br>
@@ -40,8 +40,8 @@ Dear Karie and Chris, could you clarify for us, which of those copies you finall
 
 Kabirou decided that he is going to purchase TSI Payments through his SMARTWORLDS company, and, as we saw recently, he accumulated significant sums there.
 <div class="container" style="width:auto">
-  <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1524672450/psto13/km2tam.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1524672450/psto13/km2tam.jpg" style="max-width:100%">
+  <a target="blank" href="https://image.ibb.co/dGo8Ld/km2tam.jpg">
+    <img src="https://image.ibb.co/dGo8Ld/km2tam.jpg" style="padding:1px;border:thin solid green;max-width:100%">
   </a>
 </div>
 <br></br>
@@ -50,8 +50,8 @@ He informed HSBC about this transaction and they asked to produce a copy of the 
 Now, of course, there's a great question - where does the money come from? And I happen to have an answer for you:
 
 <div class="container" style="width:auto">
-  <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1524674253/psto13/km2hsbc.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1524674253/psto13/km2hsbc.jpg" style="max-width:100%">
+  <a target="blank" href="https://image.ibb.co/kwGv0d/km2hsbc.jpg">
+    <img src="https://image.ibb.co/kwGv0d/km2hsbc.jpg" style="padding:1px;border:thin solid green;max-width:100%">
   </a>
 </div>
 <br></br>

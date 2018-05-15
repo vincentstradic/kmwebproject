@@ -12,8 +12,8 @@ How do you get money out of Kabirou? Easy! Just write him a nice letter:</p>
 <!--more-->
 
 <div class="container" style="width:auto">
-  <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1525867643/family/coucou-3.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1525867643/family/coucou-3.jpg" style="max-width:100%">
+  <a target="blank" href="https://image.ibb.co/e5seRJ/coucou_3.jpg">
+    <img src="https://image.ibb.co/e5seRJ/coucou_3.jpg" style="padding:1px;border:thin solid green;max-width:100%">
   </a>
 </div>
 <br>
@@ -21,8 +21,8 @@ Who is this Mimi? Actually, not 'Mimi' at all! Please, meet Espérance NGIRIYE, 
 
 Et voila, your wish is granted:
 <div class="container" style="width:auto">
-  <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1525866754/family/coucou-2.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1525866754/family/coucou-2.jpg" style="max-width:100%">
+  <a target="blank" href="https://image.ibb.co/kU3a0d/coucou_2.jpg">
+    <img src="https://image.ibb.co/kU3a0d/coucou_2.jpg" style="padding:1px;border:thin solid green;max-width:100%">
   </a>
 </div>
 <br>

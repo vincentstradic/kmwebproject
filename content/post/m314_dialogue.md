@@ -9,7 +9,7 @@ tags = [
 
 <div class="container" style="width:auto">
   <a target="blank" href="https://image.ibb.co/mPbR6J/m314_1.jpg">
-    <img src="https://image.ibb.co/mPbR6J/m314_1.jpg" style="max-width:100%">
+    <img src="https://image.ibb.co/mPbR6J/m314_1.jpg" style="padding:1px;border:thin solid green;max-width:100%">
   </a>
 </div>
 
@@ -17,7 +17,7 @@ tags = [
 <hr>
 <div class="container" style="width:auto">
   <a target="blank" href="https://image.ibb.co/hOszRJ/m314_2.jpg">
-    <img src="https://image.ibb.co/hOszRJ/m314_2.jpg" style="max-width:100%">
+    <img src="https://image.ibb.co/hOszRJ/m314_2.jpg" style="padding:1px;border:thin solid green;max-width:100%">
   </a>
 </div>
 <br>
