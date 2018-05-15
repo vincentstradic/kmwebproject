@@ -1,6 +1,6 @@
 +++
 date = "2018-05-16T10:29:26+00:00"
-title = "Diamond banque releve do compte"
+title = "Diamond banque releve de compte"
 tags = [
     "Wari",
     "internal",
@@ -29,7 +29,7 @@ Cliquez sur l'image pour le document complet:
     <img src="https://image.ibb.co/dawZQd/m163_3.jpg" style="padding:1px;border:thin solid green;max-width:100%">
   </a>
 </div>
-<br>
+<hr>
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526230335/diamond_Mar_dcofdh.pdf">
     <img src="https://image.ibb.co/jnrOJy/m163_4.jpg" style="padding:1px;border:thin solid green;max-width:100%">
