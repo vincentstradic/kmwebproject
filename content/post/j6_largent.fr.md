@@ -1,6 +1,6 @@
 +++
 date = "2018-06-06T10:29:26+00:00"
-title = "Where is the money, Kabirou?"
+title = "Où est l'argent, Kabirou?"
 tags = [
     "Wari",
     "internal",
