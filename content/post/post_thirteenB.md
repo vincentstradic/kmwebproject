@@ -8,8 +8,8 @@ tags = [
 ]
 +++
 <div class="container" style="width:auto">
-  <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1525780455/psto13/SW_more_proof.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1525780455/psto13/SW_more_proof.jpg" style="max-width:100%">
+  <a target="blank" href="https://image.ibb.co/j5LNfd/SW_more_proof.jpg">
+    <img src="https://image.ibb.co/j5LNfd/SW_more_proof.jpg" style="max-width:100%">
   </a>
 </div>
 
