@@ -1,5 +1,5 @@
 +++
-date = "2018-05-23T12:29:26+00:00"
+date = "2018-05-25T12:29:26+00:00"
 title = "Wari - Simplifiez votre vie"
 tags = [
     "Wari",
