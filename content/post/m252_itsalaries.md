@@ -1,5 +1,5 @@
 +++
-date = "2018-05-25T10:29:26+00:00"
+date = "2018-05-20T10:29:26+00:00"
 title = "IT Salaries at Wari"
 tags = [
     "Internal",

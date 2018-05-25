@@ -1,5 +1,5 @@
 +++
-date = "2018-05-24T10:29:26+00:00"
+date = "2018-05-21T10:29:26+00:00"
 title = "Market comparison"
 tags = [
     "Internal",
