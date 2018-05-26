@@ -46,15 +46,7 @@ Né à DAKAR (SENEGAL), le 23 août 2003.
   </a>
 </div>
 <br>
-4. Mademoiselle Karla Mwende Edith M'BODJE, écolière, demeurant à DAKAR (SENEGAL), 5 Place de l'Indépendance.
-Née à DAKAR (SENEGAL) le 29 septembre 2011. Titulaire du passeport allemand numéro G2937803 délivré à DAKAR le vingt janvier deux mille
-dix-sept, valable jusqu’au dix-neuf janvier deux mille vingt-trois.
-De nationalité Allemande
-<div class="container" style="width:auto">
-  <a target="blank" href="https://image.ibb.co/dDAoLd/Karla.jpg">
-    <img src="https://image.ibb.co/dDAoLd/Karla.jpg" style="padding:1px;border:thin solid green;max-width:100%">
-  </a>
-</div>
+4. Mademoiselle Karla Mwende Edith M'BODJE
 <br>
 
 _(Fun fact: all his children's names start with "K", so everybody's initals are KM, just like their father.)_
