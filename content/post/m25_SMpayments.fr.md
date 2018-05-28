@@ -19,55 +19,55 @@ Commençons par des vacances d'une semaine à Tulum, au Mexique, avec Isaac, qui
 
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526044459/smpayments/Tulum_recreation-1.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1526044459/smpayments/Tulum_recreation-1.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526044459/smpayments/Tulum_recreation-1.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526044460/smpayments/Tulum_recreation-2.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1526044460/smpayments/Tulum_recreation-2.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526044460/smpayments/Tulum_recreation-2.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526044459/smpayments/Tulum_recreation-3.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1526044459/smpayments/Tulum_recreation-3.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526044459/smpayments/Tulum_recreation-3.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526044459/smpayments/Tulum_recreation-4.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1526044459/smpayments/Tulum_recreation-4.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526044459/smpayments/Tulum_recreation-4.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526044460/smpayments/Tulum_recreation-5.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1526044460/smpayments/Tulum_recreation-5.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526044460/smpayments/Tulum_recreation-5.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526044460/smpayments/Tulum_Recreation-6.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1526044460/smpayments/Tulum_Recreation-6.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526044460/smpayments/Tulum_Recreation-6.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526044461/smpayments/Tulum_recreation-7.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1526044461/smpayments/Tulum_recreation-7.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526044461/smpayments/Tulum_recreation-7.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526044461/smpayments/Tulum_recreation-8.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1526044461/smpayments/Tulum_recreation-8.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526044461/smpayments/Tulum_recreation-8.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526044462/smpayments/Tulum_recreation-9.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1526044462/smpayments/Tulum_recreation-9.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526044462/smpayments/Tulum_recreation-9.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
@@ -76,25 +76,25 @@ Mais alors, qui se soucie de l'argent, quand vous avez [**Kimi**](https://res.cl
 Au cours de ces trois mois, Kabirou a envoyé 5500 euros à **sa fille Keza**:
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526044720/smpayments/Keza-1.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1526044720/smpayments/Keza-1.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526044720/smpayments/Keza-1.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526044720/smpayments/Keza-2.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1526044720/smpayments/Keza-2.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526044720/smpayments/Keza-2.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526044721/smpayments/Keza-3.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1526044721/smpayments/Keza-3.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526044721/smpayments/Keza-3.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526044721/smpayments/Keza-4.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1526044721/smpayments/Keza-4.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526044721/smpayments/Keza-4.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
@@ -102,37 +102,37 @@ Au cours de ces trois mois, Kabirou a envoyé 5500 euros à **sa fille Keza**:
 Plus de 13 000 $ payés à **son fils Kysma** à Montréal, Canada:
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526044862/smpayments/Kysma-1.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1526044862/smpayments/Kysma-1.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526044862/smpayments/Kysma-1.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526044862/smpayments/Kysma-2.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1526044862/smpayments/Kysma-2.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526044862/smpayments/Kysma-2.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526044863/smpayments/Kysma-3.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1526044863/smpayments/Kysma-3.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526044863/smpayments/Kysma-3.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526044863/smpayments/Kysma-4.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1526044863/smpayments/Kysma-4.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526044863/smpayments/Kysma-4.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526044863/smpayments/Kysma-5.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1526044863/smpayments/Kysma-5.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526044863/smpayments/Kysma-5.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526044863/smpayments/Kysma-6.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1526044863/smpayments/Kysma-6.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526044863/smpayments/Kysma-6.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
@@ -141,31 +141,31 @@ Au cours des mêmes 3 mois (janvier-mars 2018) Kabirou a dépensé 170 000 euros
 
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526045217/smpayments/PDG_REALTY-0.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1526045217/smpayments/PDG_REALTY-0.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526045217/smpayments/PDG_REALTY-0.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526045217/smpayments/PDG_REALTY_SAS_-_hotel-1.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1526045217/smpayments/PDG_REALTY_SAS_-_hotel-1.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526045217/smpayments/PDG_REALTY_SAS_-_hotel-1.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526045217/smpayments/PDG_REALTY_SAS_-_hotel-2.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1526045217/smpayments/PDG_REALTY_SAS_-_hotel-2.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526045217/smpayments/PDG_REALTY_SAS_-_hotel-2.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526045217/smpayments/PDG_REALTY_SAS_hotel-3.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1526045217/smpayments/PDG_REALTY_SAS_hotel-3.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526045217/smpayments/PDG_REALTY_SAS_hotel-3.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526045217/smpayments/PDG_REALTY_SAS_hotel-4.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1526045217/smpayments/PDG_REALTY_SAS_hotel-4.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526045217/smpayments/PDG_REALTY_SAS_hotel-4.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
@@ -174,25 +174,25 @@ Je crois que Kabirou s'est rendu compte que dépenser 170 000 euros pour un hôt
 
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526045552/SCP_MICHELEZ_NOTAIRES-2_le7rit.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1526045552/SCP_MICHELEZ_NOTAIRES-2_le7rit.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526045552/SCP_MICHELEZ_NOTAIRES-2_le7rit.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526045552/SCP_MICHELEZ_NOTAIRES-3_cvq3y3.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1526045552/SCP_MICHELEZ_NOTAIRES-3_cvq3y3.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526045552/SCP_MICHELEZ_NOTAIRES-3_cvq3y3.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526045552/SCP_MICHELEZ_NOTAIRES-4_d67z5g.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1526045552/SCP_MICHELEZ_NOTAIRES-4_d67z5g.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526045552/SCP_MICHELEZ_NOTAIRES-4_d67z5g.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526045552/SCP_MICHELEZ_NOTAIRES-5_o7uu9s.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1526045552/SCP_MICHELEZ_NOTAIRES-5_o7uu9s.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526045552/SCP_MICHELEZ_NOTAIRES-5_o7uu9s.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
@@ -200,7 +200,7 @@ Je crois que Kabirou s'est rendu compte que dépenser 170 000 euros pour un hôt
 Juste une photo de ce penthouse pour vous (plus tard):
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526046180/DSC_0250_bilkrh.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1526046180/DSC_0250_bilkrh.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526046180/DSC_0250_bilkrh.jpg" style="max-width:100%">
   </a>
 </div>
 Nice view, eh? Paris vaut bien 7 millions d'euros!
@@ -209,32 +209,32 @@ Nice view, eh? Paris vaut bien 7 millions d'euros!
 Ensuite, il y avait 36 000 euros pour **deux vols sur un avion privé**:
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526046352/smpayments/Aero_vision_invoice.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1526046352/smpayments/Aero_vision_invoice.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526046352/smpayments/Aero_vision_invoice.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526046350/smpayments/Aero_vision_flight.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1526046350/smpayments/Aero_vision_flight.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526046350/smpayments/Aero_vision_flight.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526046351/smpayments/Aero_vision_invoice-2.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1526046351/smpayments/Aero_vision_invoice-2.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526046351/smpayments/Aero_vision_invoice-2.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526046351/smpayments/aerovision_flight-2.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1526046351/smpayments/aerovision_flight-2.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526046351/smpayments/aerovision_flight-2.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
 Encore un **vol en jet privé, de Paris à Ibiza et retour, avec M. Thomas Sonnier:**
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526046885/smpayments/googwill_flight_confirm.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1526046885/smpayments/googwill_flight_confirm.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526046885/smpayments/googwill_flight_confirm.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
@@ -242,19 +242,19 @@ Premiers paiements pour le jet privé qu'il a acheté (voir dans mes posts préc
 
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526047083/smpayments/Cheikh_Seck-1.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1526047083/smpayments/Cheikh_Seck-1.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526047083/smpayments/Cheikh_Seck-1.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526047083/smpayments/Cheikh_Seck_2.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1526047083/smpayments/Cheikh_Seck_2.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526047083/smpayments/Cheikh_Seck_2.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526047083/smpayments/Cheikh_Seck-3.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1526047083/smpayments/Cheikh_Seck-3.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526047083/smpayments/Cheikh_Seck-3.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
@@ -262,7 +262,7 @@ Premiers paiements pour le jet privé qu'il a acheté (voir dans mes posts préc
 Paiment a **Hamza Guissi pour Mercedes S** en Janvier:
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526047141/smpayments/Hamza_Guissi-1.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1526047141/smpayments/Hamza_Guissi-1.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526047141/smpayments/Hamza_Guissi-1.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
@@ -270,7 +270,7 @@ Et un paiement très drôle à **quelqu'un au Liban** ... Est-ce qu'il finance l
 
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526047205/smpayments/Lebanon.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1526047205/smpayments/Lebanon.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526047205/smpayments/Lebanon.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>

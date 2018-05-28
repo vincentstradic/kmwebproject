@@ -10,7 +10,7 @@ tags = [
 
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526134676/cortogo/m231-1.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/bo_2px_solid_rgb:279d14/v1526134676/cortogo/m231-1.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/bo_2px_solid_rgb:279d14,f_auto,q_auto/v1526134676/cortogo/m231-1.jpg" style="max-width:100%">
   </a>
 </div>
 <br>
@@ -36,49 +36,49 @@ On n’en parle.
 
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526134677/cortogo/m231-2.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/bo_2px_solid_rgb:279d14/v1526134677/cortogo/m231-2.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/bo_2px_solid_rgb:279d14,f_auto,q_auto/v1526134677/cortogo/m231-2.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526134677/cortogo/m231-3.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/bo_2px_solid_rgb:279d14/v1526134677/cortogo/m231-3.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/bo_2px_solid_rgb:279d14,f_auto,q_auto/v1526134677/cortogo/m231-3.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/bo_2px_solid_rgb:279d14/v1526134678/cortogo/m231-4.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/bo_2px_solid_rgb:279d14/v1526134678/cortogo/m231-4.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/bo_2px_solid_rgb:279d14,f_auto,q_auto/v1526134678/cortogo/m231-4.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526134678/cortogo/m231-5.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/bo_2px_solid_rgb:279d14/v1526134678/cortogo/m231-5.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/bo_2px_solid_rgb:279d14,f_auto,q_auto/v1526134678/cortogo/m231-5.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526134679/cortogo/m231-6.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/bo_2px_solid_rgb:279d14/v1526134679/cortogo/m231-6.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/bo_2px_solid_rgb:279d14,f_auto,q_auto/v1526134679/cortogo/m231-6.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526134681/cortogo/m231-7.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/bo_2px_solid_rgb:279d14/v1526134681/cortogo/m231-7.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/bo_2px_solid_rgb:279d14,f_auto,q_auto/v1526134681/cortogo/m231-7.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526134679/cortogo/m231-8.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/bo_2px_solid_rgb:279d14/v1526134679/cortogo/m231-8.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/bo_2px_solid_rgb:279d14,f_auto,q_auto/v1526134679/cortogo/m231-8.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526134679/cortogo/m231-9.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/bo_2px_solid_rgb:279d14/v1526134679/cortogo/m231-9.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/bo_2px_solid_rgb:279d14,f_auto,q_auto/v1526134679/cortogo/m231-9.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
