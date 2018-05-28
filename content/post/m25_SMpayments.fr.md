@@ -22,6 +22,7 @@ Commençons par des vacances d'une semaine à Tulum, au Mexique, avec Isaac, qui
     <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526044459/smpayments/Tulum_recreation-1.jpg" style="max-width:100%">
   </a>
 </div>
+
 <hr>
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526044460/smpayments/Tulum_recreation-2.jpg">
