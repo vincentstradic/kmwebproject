@@ -1,6 +1,6 @@
 +++
 date = "2018-05-28T09:29:26+00:00"
-title = "More on the number of transactions"
+title = "The real number of transactions at Wari"
 tags = [
     "Wari",
     "Business",
