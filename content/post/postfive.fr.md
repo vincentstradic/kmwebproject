@@ -1,72 +1,48 @@
 +++
-date = "2018-04-23T10:29:26+00:00"
-title = "Tigo à vendre"
+date = "2018-05-28T11:45:26+00:00"
+title = "Tigo - optimisation fiscale"
 tags = [
     "Tigo",
+    "taxes",
 ]
 +++
 
-Bon, il faut que je me corrige, sans Madame Blumert ne marchera rien. J’espère qu’elle veuille nous expliquer un peu le sens du contenu ci-dessous (c’est une planche de ta présentation de Septembre 20, 2016):
+Ci-dessous une planche de ta présentation de Septembre 20, 2016):
 
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1524475123/postfive/tigo_pic_1.jpg">
-    <img src="http://res.cloudinary.com/vincentstradic/image/upload/c_scale,h_700/v1524475123/postfive/tigo_pic_1.jpg" style="max-width:100%">
+    <img src="http://res.cloudinary.com/vincentstradic/image/upload/c_scale,h_700,f_auto,q_auto/v1524475123/postfive/tigo_pic_1.jpg" style="max-width:100%">
   </a>
 </div>
+<br>
+Ce savoir-faire me paraît un peu illégitime, ça pu d’une fraude fiscale, même si je me débrouille à peine dans cette matière. Ce que je vois c’est que, au cours de 2016 plus de 6 milliards CFA sont été payés à la banque Standard à Maurice en qualité des intérêts. En meme temps je trouve que dans la même époque Tigo Sénégal annonce avoir souffert des pertes et échappe bien l’impôt sur les bénéfices Sénégalais.  
+
+<p>Plus planches de la présentation de Tigo. Pour example, conditionnes d’achat des licences cellulaires à Sénégal:</p>
 <!--more-->
 
 
-Ce savoir-faire me paraît un peu illégitime, ça pu d’une fraude fiscale, même si je me débrouille à peine dans cette matière. Ce que je vois c’est que, au cours de 2016, plus de 6 milliards CFA sont été payés à la banque Standard à Maurice en qualité des intérêts. En meme temps je trouve que dans la même époque Tigo Sénégal annonce avoir souffert des pertes et échappe bien l’impôt sur les bénéfices Sénégalais.  
 
-Plus planches de la présentation de Tigo. Pour example, conditionnes d’achat des licences cellulaires à Sénégal:
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1524475123/postfive/tigo_pic_2.jpg">
-    <img src="http://res.cloudinary.com/vincentstradic/image/upload/bo_2px_solid_rgb:0515f5/v1524475123/postfive/tigo_pic_2.jpg" style="max-width:100%">
+    <img src="http://res.cloudinary.com/vincentstradic/image/upload/bo_2px_solid_rgb:0515f5,f_auto,q_auto/v1524475123/postfive/tigo_pic_2.jpg" style="max-width:100%">
   </a>
 </div>
 <br></br>
 <p>Couverture totale par les trois opérateurs sénégalais:</p>
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1524475123/postfive/tigo_pic_3.jpg">
-    <img src="http://res.cloudinary.com/vincentstradic/image/upload/bo_2px_solid_rgb:0a19e3/v1524475123/postfive/tigo_pic_3.jpg" style="max-width:100%">
-  </a>
-</div>
-<br></br>
-<p>Comparaison des marques: Orange - Tigo - Expresso:</p>
-<div class="container" style="width:auto">
-  <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1524475123/postfive/tigo_pic_4.jpg">
-    <img src="http://res.cloudinary.com/vincentstradic/image/upload/bo_2px_solid_rgb:1d10d7/v1524475123/postfive/tigo_pic_4.jpg" style="max-width:100%">
+    <img src="http://res.cloudinary.com/vincentstradic/image/upload/bo_2px_solid_rgb:0a19e3,f_auto,q_auto/v1524475123/postfive/tigo_pic_3.jpg" style="max-width:100%">
   </a>
 </div>
 <br></br>
 <p>Essentiels clients de Tigo du secteur commerce B2B en 2016:</p>
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1524475123/postfive/tigo_pic_5.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1524475123/postfive/tigo_pic_5.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1524475123/postfive/tigo_pic_5.jpg" style="max-width:100%">
   </a>
 </div>
 <br></br>
-<p>Domination Orange 1:</p>
-<div class="container" style="width:auto">
-  <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1524475123/postfive/tigo_pic_6.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1524475123/postfive/tigo_pic_6.jpg" style="max-width:100%">
-  </a>
-</div>
-<br></br>
-<p>Domination Orange 2:</p>
-<div class="container" style="width:auto">
-  <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1524475124/postfive/tigo_pic_7.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1524475124/postfive/tigo_pic_7.jpg" style="max-width:100%">
-  </a>
-</div>
-<br></br>
-<p>Tous les abonnés sont égaux mais certains sont plus égaux que les autres:</p>
-<div class="container" style="width:auto">
-  <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1524475124/postfive/tigo_pic_8.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1524475124/postfive/tigo_pic_8.jpg" style="max-width:100%">
-  </a>
-</div>
-<br></br>
+
 Plus de notre dossier pour comble:
 
 - [Etats financiers 2016 - 1](https://res.cloudinary.com/vincentstradic/image/upload/v1524476500/postfive/SENTEL_2016_FS_Part_1_2.pdf)
