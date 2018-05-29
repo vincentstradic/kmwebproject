@@ -1,5 +1,5 @@
 +++
-date = "2018-05-04T09:29:26+00:00"
+date = "2018-05-25T09:29:26+00:00"
 title = "Corruption in Senegal"
 tags = [
     "Wari",
@@ -14,7 +14,7 @@ Habituellement, les cas de corruption sont difficiles à découvrir et encore pl
 
 <!--more-->
 
-Je vous ai déjà parlé d'une fraude contre Wari par un certain Blaise Kouassi vous vous souvenez? Naturellement, Wari est allée à la police et a demandé à ce que Blaise soit arrêté. Et voici ce qui s'est passé ensuite:
+Je vous ai déjà parlé d'une [fraude contre Wari](http://warileaks.com/fr/comment-voler-100-000-000-cfa-de-wari/) par un certain Blaise Kouassi vous vous souvenez? Naturellement, Wari est allée à la police et a demandé à ce que Blaise soit arrêté. Et voici ce qui s'est passé ensuite:
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1524841765/p16_1_e0udzr.jpg">
     <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1524841765/p16_1_e0udzr.jpg" style="max-width:100%">

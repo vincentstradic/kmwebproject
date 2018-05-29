@@ -1,5 +1,5 @@
 +++
-date = "2018-05-04T09:29:26+00:00"
+date = "2018-05-25T09:29:26+00:00"
 title = "Corruption in Senegal"
 tags = [
     "Wari",
@@ -15,7 +15,7 @@ Usually, cases of corruption are hard to uncover and then even harder to prove, 
 
 <!--more-->
 
-Remember I told you about a fraud against Wari by some Blaise Kouassi? Naturally, Wari went to the police and asked to have this Blaise arrested. And here is what happened next:
+Remember I told you about a [fraud against Wari](http://warileaks.com/how-to-steal-100-000-000--cfa-from-wari/) by some Blaise Kouassi? Naturally, Wari went to the police and asked to have this Blaise arrested. And here is what happened next:
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1524841765/p16_1_e0udzr.jpg">
     <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1524841765/p16_1_e0udzr.jpg" style="max-width:100%">
