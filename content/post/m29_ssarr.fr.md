@@ -1,5 +1,5 @@
 +++
-date = "2018-05-28T14:29:26+00:00"
+date = "2025-05-28T14:29:26+00:00"
 title = "Samuel Sarr pour le Président"
 tags = [
     "Kabirou",
