@@ -15,6 +15,8 @@ Chers membres du Club, nous avons une décision à prendre.
 
 J'ai environ 100 échanges d'email entre Kabirou Mbodje et Samuel Sarr. Je n'ai pas étudié ces emails en détail, parce que je n'avais pas réalisé que c'était le même Samuel Sarr, ancien ministre.
 
+D'après ce que j'ai vu, je sais qu'il est un escroc dans la poche de Kabirou.
+
 Alors, votons:
 
 - Si je devais suspendre temporairement les publications sur Wari et me concentrer sur Samuel Sarr, <a href="mailto:info@warileaks.com?Subject=Voting&body=Pour%20SSarr">cliquez sur ce lien</a> pour m'envoyer une lettre.
