@@ -9,6 +9,7 @@ tags = [
 
 Si vous n'êtes pas Sénégalais, vous obtiendrez un salaire beaucoup plus intéressant à Wari:
 
+<!--more-->
 <div class="container" style="width:auto">
   <a target="blank" href="https://image.ibb.co/miqAWJ/m22_1.jpg">
     <img src="https://image.ibb.co/miqAWJ/m22_1.jpg" style="padding:1px;border:thin solid green;max-width:100%">
@@ -16,7 +17,7 @@ Si vous n'êtes pas Sénégalais, vous obtiendrez un salaire beaucoup plus inté
 </div>
 
 
-<!--more-->
+
 <hr>
 <div class="container" style="width:auto">
   <a target="blank" href="https://image.ibb.co/hDyayy/m22_2.jpg">

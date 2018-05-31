@@ -9,6 +9,8 @@ tags = [
 
 Quelques analyses internes sur le nombre réel de transactions sur la plateforme Wari en 2018. Wari a perdu 9% des transactions en mars et 18% au cours des 10 premiers jours d'avril:
 
+<!--more-->
+
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526052663/work/m28-1.jpg">
     <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526052663/work/m28-1.jpg" style="max-width:100%">
@@ -16,7 +18,7 @@ Quelques analyses internes sur le nombre réel de transactions sur la plateforme
 </div>
 <hr>
 
-<!--more-->
+
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526052666/work/m28-2.jpg">
     <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526052666/work/m28-2.jpg" style="max-width:100%">

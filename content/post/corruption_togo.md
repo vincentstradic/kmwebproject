@@ -13,14 +13,14 @@ Here is another perfect example of how Kabirou is corrupting governments. This t
 I'll tell this story in documents only. All of them are French, sorry, English-speakers.
 
 We'll start with the letter to Kabirou from his legal advisor, Pape Magatte Diop, then, just follow the documents attached.
-
+<!--more-->
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1525968839/cortogo/cortogo-1.jpg">
     <img src="https://res.cloudinary.com/vincentstradic/image/upload/bo_2px_solid_rgb:279d14,f_auto,q_auto/v1525968839/cortogo/cortogo-1.jpg" style="max-width:100%">
   </a>
 </div>
 <hr>
-<!--more-->
+
 <p></p>
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1525968846/cortogo/cortogo-2.jpg">

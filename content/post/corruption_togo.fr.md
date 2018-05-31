@@ -11,7 +11,7 @@ tags = [
 Voici un autre exemple parfait de la façon dont Kabirou corrompt les gouvernements. Cette fois au Togo.
 
 Je raconterai cette histoire exclusivement dans des documents. Commençons par la lettre adressée à Kabirou par son conseiller juridique, Pape Magatte Diop. Ensuite, il suffit de suivre les documents ci-joints.
-
+<!--more-->
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1525968839/cortogo/cortogo-1.jpg">
     <img src="https://res.cloudinary.com/vincentstradic/image/upload/bo_2px_solid_rgb:279d14,f_auto,q_auto/v1525968839/cortogo/cortogo-1.jpg" style="max-width:100%">
@@ -19,7 +19,7 @@ Je raconterai cette histoire exclusivement dans des documents. Commençons par l
 </div>
 <hr>
 
-<!--more-->
+
 <p></p>
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1525968846/cortogo/cortogo-2.jpg">

@@ -7,14 +7,8 @@ tags = [
     "Togo",
 ]
 +++
+**Letter from Pape Magatte Diop to Kabirou Mbodje:**
 
-<div class="container" style="width:auto">
-  <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526134676/cortogo/m231-1.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/bo_2px_solid_rgb:279d14,f_auto,q_auto/v1526134676/cortogo/m231-1.jpg" style="max-width:100%">
-  </a>
-</div>
-<br>
-**Full text of the letter:**
 Les documents des impôts Togolais portant demande d’assistance de l’Administration sénégalaise pour le recouvrement des 153 000 000 FCFA.
 
 J’avais constaté Pape Diouf, l’inspecteur des Impôts qui t’avais appelé un jour sur ce dossier et qui m’a effectivement confirmé la demande d’assistance émanant de la direction de la législation des impôts du Sénégal.
@@ -33,6 +27,13 @@ On n’en parle.
 <br>
 
 <!--more-->
+<div class="container" style="width:auto">
+  <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526134676/cortogo/m231-1.jpg">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/bo_2px_solid_rgb:279d14,f_auto,q_auto/v1526134676/cortogo/m231-1.jpg" style="max-width:100%">
+  </a>
+</div>
+<br>
+
 
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526134677/cortogo/m231-2.jpg">

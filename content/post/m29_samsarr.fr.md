@@ -1,6 +1,6 @@
 +++
 date = "2018-05-29T09:29:26+00:00"
-title = "Samuel Sarr"
+title = "Samuel Sarr ou Kabirou Mbodje"
 tags = [
     "Sarr",
     "Kabirou",
@@ -8,16 +8,13 @@ tags = [
 ]
 +++
 
-Chers membres du Club, nous avons une décision à prendre.
-<!--more-->
-<br>
-</br>
-
-J'ai environ 100 échanges d'email entre Kabirou Mbodje et Samuel Sarr. Je n'ai pas étudié ces emails en détail, parce que je n'avais pas réalisé que c'était le même Samuel Sarr, ancien ministre.
+Chers membres du Club, nous avons une décision à prendre. J'ai environ 100 échanges d'email entre Kabirou Mbodje et Samuel Sarr. Je n'ai pas étudié ces emails en détail, parce que je n'avais pas réalisé que c'était le même Samuel Sarr, ancien ministre.
 
 D'après ce que j'ai vu, je sais qu'il est un escroc dans la poche de Kabirou.
 
 Alors, votons:
+
+<!--more-->
 
 - Si je devais suspendre temporairement les publications sur Wari et me concentrer sur Samuel Sarr, <a href="mailto:info@warileaks.com?Subject=Voting&body=Pour%20SSarr">cliquez sur ce lien</a> pour m'envoyer une lettre.
 

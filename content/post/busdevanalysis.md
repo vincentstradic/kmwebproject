@@ -9,14 +9,14 @@ tags = [
 
 
 Some internal Wari business analysis for you (if you were planning to invest in Wari, for example):
-
+<!--more-->
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1525882245/work/busdevanalys.jpg">
     <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1525882245/work/busdevanalys.jpg" style="max-width:100%">
   </a>
 </div>
 <br>
-<!--more-->
+
 
 [**Full document here.**](https://res.cloudinary.com/vincentstradic/image/upload/v1525882301/work/MEMO_SG_WARI.docx_1.pdf)
 

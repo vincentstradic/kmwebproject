@@ -9,6 +9,7 @@ tags = [
 
 
 Bonne analyse interne de Wari pour vous, si vous aviez l'intention d'investir dans Wari:
+<!--more-->
 
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1525882245/work/busdevanalys.jpg">
@@ -16,7 +17,7 @@ Bonne analyse interne de Wari pour vous, si vous aviez l'intention d'investir da
   </a>
 </div>
 <br>
-<!--more-->
+
 
 [**Document complet ici.**](https://res.cloudinary.com/vincentstradic/image/upload/v1525882301/work/MEMO_SG_WARI.docx_1.pdf)
 
