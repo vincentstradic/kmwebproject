@@ -1,6 +1,6 @@
 +++
-date = "2018-05-31T09:29:26+00:00"
-title = "Great insight into the economics of Wari"
+date = "2018-06-01T09:29:26+00:00"
+title = "Un bon aperçu de l'économie de Wari"
 tags = [
     "Wari",
     "internal",
@@ -30,7 +30,7 @@ tags = [
   </a>
 </div>
 <br>
-[**Detailed Excel document attached.**](https://res.cloudinary.com/vincentstradic/raw/upload/v1526056447/work/MPR_Package_Wari_Nov_2017_2.xlsx)
+[**Document Excel détaillé en pièce jointe.**](https://res.cloudinary.com/vincentstradic/raw/upload/v1526056447/work/MPR_Package_Wari_Nov_2017_2.xlsx)
 
 Stay tuned!
 <hr>
