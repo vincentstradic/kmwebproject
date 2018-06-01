@@ -18,13 +18,6 @@ Wari employees will be delighted to read some documents on internal management, 
 
 We'll also uncover some interesting facts about Kabirou's family, and why his children are so grateful to him at the moment. Apart from family he also has some secret private life - but you remember the First Rule - so we'll research that as well.
 
-Currently the members of the club include about 1600 people - those who were in contact with Kabirou during the last year and instantly fell in love with him. The full list of members is available in [this file](https://res.cloudinary.com/vincentstradic/image/upload/v1524236494/All_warileaks_emails_hrsd7o.pdf). Some of the Club members are special, and we'll devote separate pieces to them and their affairs.
-Unfortunately, some important people haven't yet joined the club, and we need them to be with us. If you are in contact with:
-- Cheikh Tagué, Seyni Kamara or Malick Fall;
-- Ex-partners, business associates or employees unlawfully fired by Kabirou;
-- Journalists in African, French or international media, who are interested in writing about the "Young tycoon" and "African Elon Musk";
-please, add their emails in the form at the bottom, and we'll welcome new members in our Club.
-
 Basic membership in the club is free of charge. However, if you have any special requests for Kabirou's documents and exchanges, or if you would like to have the whole archive right now - contact me at info@warileaks.com, and we'll work something out. Club membership is irrevocable - you can't just stop being a fan of Kabirou, nobody can.
 
 All materials in this website can be reproduced in any form and with any purposes (remember the First Rule). If you are publishing something based on our materials, please, send me a link (info@warileaks.com), and I'll promote this link in my site.

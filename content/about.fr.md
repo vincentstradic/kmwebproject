@@ -18,8 +18,6 @@ Les employés de Wari seront probablement ravis de lire les documents sur la ges
 
 Nous allons également découvrir quelques faits intéressants sur la famille de Kabirou et pourquoi ses enfants lui sont si reconnaissants en ce moment. En dehors de la famille, il a aussi une vie privée secrète, mais vous vous souvenez de la Première Règle… nous ferons donc des recherches sur ce sujet également.
 
-Actuellement, les membres du club comprennent environ 1 600 personnes, soit ceux qui étaient en contact avec Kabirou au cours de la dernière année et qui sont instantanément tombés amoureux de lui. La liste complète des membres est disponible dans [ce fichier ](https://res.cloudinary.com/vincentstradic/image/upload/v1524236494/All_warileaks_emails_hrsd7o.pdf). Certains des membres du club sont "spéciaux" et nous leur consacrerons une attention particulière en parallèle avec leurs affaires respectives.
-
 Malheureusement, certaines personnes importantes n'ont pas encore rejoint le club et nous avons besoin de les avoir à nos côtés. Si vous êtes en contact avec:
 - Cheikh Tagué, Seyni Kamara ou Malick Fall;
 - Des ex-partenaires, associés d'affaires ou employés licenciés illégalement par Kabirou;
