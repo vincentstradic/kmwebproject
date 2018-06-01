@@ -1,5 +1,5 @@
 +++
-date = "2018-05-29T11:31:26+00:00"
+date = "2018-05-30T11:31:26+00:00"
 title = "Partager c'est aimer"
 tags = [
     "Kabirou",
