@@ -1,5 +1,5 @@
 +++
-date = "2018-06-01T09:29:26+00:00"
+date = "2019-06-01T09:29:26+00:00"
 title = "Un bon aperçu de l'économie de Wari"
 tags = [
     "Wari",
