@@ -1,6 +1,6 @@
 +++
-date = "2018-06-05T09:29:26+00:00"
-title = "Rapport interne 2017"
+date = "2018-07-10T09:29:26+00:00"
+title = "Internal report 2017"
 tags = [
     "Wari",
     "internal",
@@ -9,7 +9,7 @@ tags = [
 
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526119943/j5/j5-1.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1526119943/j5/j5-1.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526119943/j5/j5-1.jpg" style="max-width:100%">
   </a>
 </div>
 <br>

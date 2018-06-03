@@ -14,7 +14,7 @@ Nous, au Fan Club de ton père, nous sommes sérieusement inquiets. Es-tu vraime
 <!--more-->
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1525863566/family/keza_lettre.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1525863566/family/keza_lettre.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1525863566/family/keza_lettre.jpg" style="max-width:100%">
   </a>
 </div>
 <br>

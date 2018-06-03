@@ -1,5 +1,5 @@
 +++
-date = "2018-06-08T09:29:26+00:00"
+date = "2018-06-29T09:29:26+00:00"
 title = "Wari in Nigeria"
 tags = [
     "Wari",

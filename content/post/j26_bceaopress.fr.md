@@ -1,5 +1,5 @@
 +++
-date = "2018-06-20T09:29:26+00:00"
+date = "2018-06-26T09:29:26+00:00"
 title = "Stratégie de presse"
 tags = [
     "Wari",

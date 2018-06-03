@@ -9,7 +9,7 @@ tags = [
 
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526121605/j6/j6-1.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1526121605/j6/j6-1.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526121605/j6/j6-1.jpg" style="max-width:100%">
   </a>
 </div>
 <br>

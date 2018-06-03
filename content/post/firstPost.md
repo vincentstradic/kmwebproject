@@ -10,7 +10,7 @@ tags = [
 I'll start by establishing some credibility, so that no one has any doubts about the materials presented in this site. Please, see the current French passport of Kabirou Mbodje:
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1523977187/Kabirou_passport_ca14jy.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1523977187/Kabirou_passport_ca14jy.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1523977187/Kabirou_passport_ca14jy.jpg" style="max-width:100%">
   </a>
 </div>
 
@@ -19,7 +19,7 @@ As well as his old passport:
 
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1523977188/Kabirou_old_passport_wct6ij.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1523977188/Kabirou_old_passport_wct6ij.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1523977188/Kabirou_old_passport_wct6ij.jpg" style="max-width:100%">
   </a>
 </div>
 <br></br>

@@ -8,7 +8,7 @@ tags = [
 +++
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526213414/j14-1_s9z4z7.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/bo_2px_solid_rgb:279d14/v1526213414/j14-1_s9z4z7.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/bo_2px_solid_rgb:279d14,f_auto,q_auto/v1526213414/j14-1_s9z4z7.jpg" style="max-width:100%">
   </a>
 </div>
 
@@ -17,12 +17,12 @@ tags = [
 <hr>
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526213415/j14-2_ypc4ux.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1526213415/j14-2_ypc4ux.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526213415/j14-2_ypc4ux.jpg" style="max-width:100%">
   </a>
 </div>
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526213415/j14-3_qr54bb.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1526213415/j14-3_qr54bb.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526213415/j14-3_qr54bb.jpg" style="max-width:100%">
   </a>
 </div>
 

@@ -13,7 +13,7 @@ Bonne analyse interne de Wari pour vous, si vous aviez l'intention d'investir da
 
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1525882245/work/busdevanalys.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1525882245/work/busdevanalys.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1525882245/work/busdevanalys.jpg" style="max-width:100%">
   </a>
 </div>
 <br>

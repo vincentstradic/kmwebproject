@@ -1,13 +1,13 @@
 +++
-date = "2018-06-04T10:29:26+00:00"
-title = "Kabirou Le Généreux"
+date = "2018-07-06T10:29:26+00:00"
+title = "Kabirou the generous"
 tags = [
     "Internal",
     "WARI",
 ]
 +++
 
-Comme nous l'avons déjà remarqué - si vous n'êtes pas sénégalais, vous obtiendrez un salaire beaucoup plus élevé à Wari.
+As we noticed already - if you are not Senegalese, you'll get much higher salary at Wari.
 
 <p></p>
 <div class="container" style="width:auto">

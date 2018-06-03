@@ -1,6 +1,6 @@
 +++
-date = "2018-06-08T10:29:26+00:00"
-title = "Wari priorities"
+date = "2018-07-02T10:29:26+00:00"
+title = "Priorités à Wari"
 tags = [
     "Wari",
     "internal",

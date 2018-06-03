@@ -1,6 +1,6 @@
 +++
-date = "2018-06-12T09:29:26+00:00"
-title = "Banque d'affaires"
+date = "2018-06-28T09:29:26+00:00"
+title = "Investment bankers"
 tags = [
     "Wari",
     "internal",

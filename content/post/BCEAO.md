@@ -10,7 +10,7 @@ tags = [
 End of December last year, Kabirou Mbodje met with Senergal National Director of BCEAO, Mr. Ahmadou Al Aminou LO.
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1525872109/work/bceao_meeting.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1525872109/work/bceao_meeting.jpg" style="max-width:100%">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1525872109/work/bceao_meeting.jpg" style="max-width:100%">
   </a>
 </div>
 <br>

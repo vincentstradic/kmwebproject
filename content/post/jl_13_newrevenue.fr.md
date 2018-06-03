@@ -1,6 +1,6 @@
 +++
-date = "2018-06-07T10:29:26+00:00"
-title = "Une politique sociale"
+date = "2018-07-13T10:29:26+00:00"
+title = "Nouveaux revenus"
 tags = [
     "Wari",
     "internal",
