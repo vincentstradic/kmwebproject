@@ -6,6 +6,9 @@ tags = [
     "internal",
 ]
 +++
+Aicha Kouyate envoie les documents de la réunion du Conseil de Wari 2018 à Kabirou Mbodje:
+
+<!--more-->
 
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526121605/j6/j6-1.jpg">
@@ -13,7 +16,7 @@ tags = [
   </a>
 </div>
 <br>
-<!--more-->
+
 
 - [**4 Wari business plan - 21Sept2017 (final - as sent) (1).docx**](https://res.cloudinary.com/vincentstradic/raw/upload/v1526121595/j6/4_Wari_business_plan_-_21Sept2017_final_-_as_sent_1.docx)
 
