@@ -7,7 +7,11 @@ tags = [
 ]
 +++
 
-"**Groupe Wari a décidé de mener une politique sociale permettant à ses employés d’accéder au logement**":
+"**Groupe Wari a décidé de mener une politique sociale permettant à ses employés d’accéder au logement**".
+
+See below the exchange between Adama Cisse and Kabirou Mbodje:
+
+<!--more-->
 
 
 <div class="container" style="width:auto">
@@ -16,7 +20,6 @@ tags = [
   </a>
 </div>
 <br>
-<!--more-->
 
 - [**PROMESSE D AFFECTATION HYPOTHECAIRE A DEME.docx**](https://res.cloudinary.com/vincentstradic/raw/upload/v1526122516/j7/PROMESSE_D_AFFECTATION_HYPOTHECAIRE_A_DEME.docx)
 
