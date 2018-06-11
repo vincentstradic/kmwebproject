@@ -7,6 +7,8 @@ tags = [
 ]
 +++
 
+Aicha Kouyate reports to Kabirou Mbodje on the search for investors in South Africa.
+
 <div class="container" style="width:auto">
   <a target="blank" href="https://image.ibb.co/ggmUdy/j11_0_1.jpg">
     <img src="https://image.ibb.co/ggmUdy/j11_0_1.jpg" style="max-width:100%">
