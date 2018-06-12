@@ -3,7 +3,7 @@ date = "2018-06-13T11:29:26+00:00"
 title = "Interswitch Nigeria"
 tags = [
     "Kabirou",
-    "property",
+    "Wari",
 ]
 +++
 <div class="container" style="width:auto">

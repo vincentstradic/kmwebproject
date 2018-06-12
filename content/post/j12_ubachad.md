@@ -1,11 +1,13 @@
 +++
 date = "2018-06-12T11:29:26+00:00"
-title = "UBA Tchad in game"
+title = "UBA Tchad buying Wari shares"
 tags = [
     "Wari",
     "internal",
 ]
 +++
+
+From Thierno Thioye, UBA Group, to Aicha Kouyate.
 
 <div class="container" style="width:auto">
   <a target="blank" href="https://image.ibb.co/ixCfkd/j_12_1.jpg">
