@@ -1,6 +1,6 @@
 +++
 date = "2018-06-12T09:29:26+00:00"
-title = "UBA Tchad buying Wari shares"
+title = "UBA Tchad invests in Wari"
 tags = [
     "Wari",
     "internal",
