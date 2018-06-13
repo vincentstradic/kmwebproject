@@ -6,6 +6,9 @@ tags = [
     "Wari",
 ]
 +++
+
+Rencontre entre Kabirou Mbodje et Mitchell Elegbe.
+
 <div class="container" style="width:auto">
   <a target="blank" href="https://image.ibb.co/bWcD5d/j_13_1.jpg">
     <img src="https://image.ibb.co/bWcD5d/j_13_1.jpg" style="max-width:100%">
