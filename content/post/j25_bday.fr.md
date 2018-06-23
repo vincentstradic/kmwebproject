@@ -14,8 +14,12 @@ tags = [
 </div>
 <br>
 Mes chers amis,
+
+N'oubliez pas de féliciter un jeune entrepreneur sénégalais de son 54ème anniversaire. Et j'ai un cadeau pour vous:
 <!--more-->
 
 
-J'ai rassemblé une sélection de 15 lettres concernant les affaires les plus intimes de Kabirou Mbodje, ses préférences et ses désirs. Je ne vais pas publier ces documents sur mon site, mais je les vendrai à un prix raisonnable à tous ceux qui le souhaitent - exclusifs ou non exclusifs. Contactez-moi à info@warileaks.com si vous êtes intéressé.
+J'ai rassemblé une sélection de 9 lettres concernant les affaires les plus intimes de Kabirou Mbodje, ses préférences et ses désirs. Je ne vais pas publier ces documents sur mon site, mais je les vendrai à un prix raisonnable à tous ceux qui le souhaitent - exclusifs ou non exclusifs. Contactez-moi à info@warileaks.com si vous êtes intéressé.
+
+Spoiler: il les préfère jeunes et le plus souvent blancs.
 <hr>

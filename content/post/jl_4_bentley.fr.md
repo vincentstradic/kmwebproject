@@ -1,11 +1,15 @@
 +++
-date = "2018-07-04T09:29:26+00:00"
+date = "2018-07-17T09:29:26+00:00"
 title = "Dommage que le Bentley n'est pas nouveau"
 tags = [
     "Kabirou",
     "property",
 ]
 +++
+
+
+Kabirou Mbodje importe une Bentley d'occasion au Sénégal.
+
 
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526057662/work/j1-1.jpg">

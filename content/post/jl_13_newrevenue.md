@@ -7,6 +7,8 @@ tags = [
 ]
 +++
 
+Dr. Mabouda, member of Wari board, tries to save the company from complete failure, but nobody listens to him.
+
 
 <div class="container" style="width:auto">
   <a target="blank" href="https://image.ibb.co/jSh2yy/j7_3_1.jpg">

@@ -1,11 +1,13 @@
 +++
-date = "2018-06-29T09:29:26+00:00"
-title = "Wari in Nigeria"
+date = "2018-07-05T09:29:26+00:00"
+title = "Wari sur les marchés africains"
 tags = [
     "Wari",
     "internal",
 ]
 +++
+
+Kabirou Mbodje cible maintenant le Nigeria, le Mozambique et le Soudan:
 
 <div class="container" style="width:auto">
   <a target="blank" href="https://image.ibb.co/mUTmQd/j8_0_1.jpg">

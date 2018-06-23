@@ -1,11 +1,14 @@
 +++
-date = "2018-06-26T09:29:26+00:00"
-title = "Wari press strategy"
+date = "2018-07-02T09:29:26+00:00"
+title = ""Kabirou vs Senegalese Press""
 tags = [
     "Wari",
     "internal",
 ]
 +++
+
+This is what Kabirou Mbodje does, when he doesn't like the press about him:
+
 <a href="https://letemoin.net/2018/04/09/finance-digitale-bceao-couvre-t-kabirou-mbodj-de-wari/
  "target="\_blank">https://letemoin.net/2018/04/09/finance-digitale-bceao-couvre-t-kabirou-mbodj-de-wari/</a>
 

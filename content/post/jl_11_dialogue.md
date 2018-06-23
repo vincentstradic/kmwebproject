@@ -7,6 +7,8 @@ tags = [
 ]
 +++
 
+Pape Magatte Diop: because fuck you, that's why.
+
 <div class="container" style="width:auto">
   <a target="blank" href="https://image.ibb.co/mPbR6J/m314_1.jpg">
     <img src="https://image.ibb.co/mPbR6J/m314_1.jpg" style="padding:1px;border:thin solid green;max-width:100%">

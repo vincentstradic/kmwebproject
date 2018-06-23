@@ -7,6 +7,8 @@ tags = [
 ]
 +++
 
+Rapport confidentiel sur l'ensemble des activités de Wari en 2017.
+
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526119943/j5/j5-1.jpg">
     <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1526119943/j5/j5-1.jpg" style="max-width:100%">

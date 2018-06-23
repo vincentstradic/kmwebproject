@@ -1,5 +1,5 @@
 +++
-date = "2018-07-04T09:29:26+00:00"
+date = "2018-07-17T09:29:26+00:00"
 title = "Nice car, though not new"
 tags = [
     "Kabirou",
@@ -7,8 +7,7 @@ tags = [
 ]
 +++
 
-
-
+Kabirou Mbodje brings a second-hand Bentley to Senegal.
 
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526057662/work/j1-1.jpg">

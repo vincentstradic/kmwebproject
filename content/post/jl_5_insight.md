@@ -1,5 +1,5 @@
 +++
-date = "2018-07-05T09:29:26+00:00"
+date = "2018-07-18T09:29:26+00:00"
 title = "Great insight into the economics of Wari"
 tags = [
     "Wari",
@@ -7,7 +7,7 @@ tags = [
 ]
 +++
 
-
+Everything you needed to know about Wari financials.
 
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526056498/work/m31-1.jpg">

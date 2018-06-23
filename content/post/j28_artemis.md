@@ -1,11 +1,14 @@
 +++
-date = "2018-06-28T09:29:26+00:00"
+date = "2018-07-04T09:29:26+00:00"
 title = "Investment bankers"
 tags = [
     "Wari",
     "internal",
 ]
 +++
+
+Kabirou hires Artemis Group to help lie to potential investors.
+
 
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526138141/work/j12-1.jpg">

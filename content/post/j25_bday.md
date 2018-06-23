@@ -15,8 +15,12 @@ tags = [
 <br>
 My dear friends,
 
+Please, don't forget to congratulate young Senegalese entrepreneur with his 54-th birthday. And I have a present for you: 
+
 <!--more-->
 
-I have gathered a selection of 15 letters concerning the most intimate affairs of Kabirou Mbodje, his preferences and desires. I am not going to publish this in the site, but I'll sell them for a reasonable price to anyone who wants - exclusive or non-exclusive. Get in touch with me at info@warileaks.com if you are interested.
+I have put together a selection of 9 letters concerning the most intimate affairs of Kabirou Mbodje, his preferences and desires. I am not going to publish this in the site, but I'll sell them for a reasonable price to anyone who wants - exclusive or non-exclusive. Get in touch with me at info@warileaks.com if you are interested.
+
+Spoiler: he likes them young and mostly white.
 
 <hr>

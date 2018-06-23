@@ -1,11 +1,15 @@
 +++
-date = "2018-06-26T09:29:26+00:00"
-title = "Stratégie de presse"
+date = "2018-07-02T09:29:26+00:00"
+title = "Kabirou vs Presse sénégalaise"
 tags = [
     "Wari",
     "internal",
 ]
 +++
+
+C'est ce que Kabirou Mbodje fait quand il n'aime pas la presse à son sujet:
+
+
 <a href="https://letemoin.net/2018/04/09/finance-digitale-bceao-couvre-t-kabirou-mbodj-de-wari/
  "target="\_blank">https://letemoin.net/2018/04/09/finance-digitale-bceao-couvre-t-kabirou-mbodj-de-wari/</a>
 

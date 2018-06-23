@@ -7,6 +7,7 @@ tags = [
 ]
 +++
 
+Le Dr Mabouda, membre du conseil d'administration de Wari, tente de sauver l'entreprise d'un échec total, mais personne ne l'écoute.
 
 <div class="container" style="width:auto">
   <a target="blank" href="https://image.ibb.co/jSh2yy/j7_3_1.jpg">
