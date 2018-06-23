@@ -1,6 +1,6 @@
 +++
 date = "2018-07-02T09:29:26+00:00"
-title = ""Kabirou vs Senegalese Press""
+title = "Kabirou vs Senegalese Press"
 tags = [
     "Wari",
     "internal",
