@@ -1,5 +1,5 @@
 +++
-date = "2018-07-06T10:29:26+00:00"
+date = "2018-07-09T10:29:26+00:00"
 title = "Kabirou of many faces"
 tags = [
     "Kabirou",
