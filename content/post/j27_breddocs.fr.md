@@ -1,5 +1,5 @@
 +++
-date = "2018-07-03T09:29:26+00:00"
+date = "2018-08-24T09:29:26+00:00"
 title = "Kabirou Mbodje ment aux banques. Pas de surprise"
 tags = [
     "Kabirou",
