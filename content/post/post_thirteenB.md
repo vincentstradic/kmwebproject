@@ -1,6 +1,6 @@
 +++
-date = "2018-05-08T11:29:26+00:00"
-title = "Even more proof"
+date = "2018-07-08T11:29:26+00:00"
+title = "Embezzlement - even more proof"
 tags = [
     "HSBC",
     "Wari",

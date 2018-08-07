@@ -1,6 +1,6 @@
 
 +++
-date = "2018-06-05T01:29:26+00:00"
+date = "2018-07-05T01:29:26+00:00"
 title = "How Kabirou is fooling two African governments at the same time"
 tags = [
     "Kabirou",

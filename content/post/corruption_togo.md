@@ -1,5 +1,5 @@
 +++
-date = "2018-06-08T11:29:26+00:00"
+date = "2018-08-10T11:29:26+00:00"
 title = "Corruption in Togo"
 tags = [
     "Wari",
@@ -8,11 +8,11 @@ tags = [
 ]
 +++
 
-Here is another perfect example of how Kabirou is corrupting governments. This time in Togo.
+Kabirou Mbodje orchestrates huge government corruption in Togo.
 
 I'll tell this story in documents only. All of them are French, sorry, English-speakers.
 
-We'll start with the letter to Kabirou from his legal advisor, Pape Magatte Diop, then, just follow the documents attached.
+We'll start with the letter to Kabirou Mbodje from his legal advisor, Pape Magatte Diop, then, just follow the documents attached.
 <!--more-->
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1525968839/cortogo/cortogo-1.jpg">

@@ -1,5 +1,5 @@
 +++
-date = "2018-04-25T08:29:26+00:00"
+date = "2018-07-25T08:29:26+00:00"
 title = "Never try to bullshit the bullshitter"
 tags = [
     "fraud",

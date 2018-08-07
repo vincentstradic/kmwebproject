@@ -1,6 +1,6 @@
 +++
-date = "2018-05-02T11:29:26+00:00"
-title = "Ses enfants"
+date = "2018-08-14T11:29:26+00:00"
+title = "Enfants de Kabirou Mbodje"
 tags = [
     "Kabirou",
     "Family",

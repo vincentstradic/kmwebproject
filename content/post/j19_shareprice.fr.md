@@ -1,11 +1,13 @@
 +++
-date = "2018-06-19T09:29:26+00:00"
+date = "2018-08-20T09:29:26+00:00"
 title = "La valorisation des actions Wari"
 tags = [
     "Wari",
     "internal",
 ]
 +++
+
+Kabirou Mbodje demande à ses employés de gonfler le cours des actions Wari.
 
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526216405/work/j19-1.jpg">

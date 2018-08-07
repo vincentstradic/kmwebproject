@@ -1,11 +1,13 @@
 +++
-date = "2018-05-18T08:29:26+00:00"
+date = "2018-09-05T08:29:26+00:00"
 title = "Priceless document by Wari"
 tags = [
     "Wari",
     "shares",
 ]
 +++
+
+Full business plan of Wari, 2018 - 2022
 
 Click on the image for full document:
 

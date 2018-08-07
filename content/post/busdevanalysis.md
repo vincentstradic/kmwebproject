@@ -1,5 +1,5 @@
 +++
-date = "2018-05-02T09:29:26+00:00"
+date = "2018-08-09T09:29:26+00:00"
 title = "Situation at Wari"
 tags = [
     "strategy",
@@ -8,7 +8,8 @@ tags = [
 +++
 
 
-Some internal Wari business analysis for you (if you were planning to invest in Wari, for example):
+Internal Wari business analysis document, prepared for Kabirou Mbodje:
+
 <!--more-->
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1525882245/work/busdevanalys.jpg">

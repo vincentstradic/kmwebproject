@@ -1,11 +1,12 @@
 +++
-date = "2018-05-18T08:29:26+00:00"
+date = "2018-09-05T08:29:26+00:00"
 title = "Document précieux par Wari"
 tags = [
     "Wari",
     "shares",
 ]
 +++
+Plan d'affaires complet de Wari, 2018 - 2022.
 
 Cliquez sur l'image pour le document complet:
 

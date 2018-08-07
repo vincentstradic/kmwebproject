@@ -1,5 +1,5 @@
 +++
-date = "2018-05-03T09:29:26+00:00"
+date = "2018-07-03T09:29:26+00:00"
 title = "How to steal 100 000 000+ CFA from Wari"
 tags = [
     "Wari",

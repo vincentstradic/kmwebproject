@@ -1,6 +1,6 @@
 +++
-date = "2018-06-25T09:29:26+00:00"
-title = "Kabirou - 54"
+date = "2019-06-25T09:29:26+00:00"
+title = "Kabirou - 55"
 tags = [
     "Wari",
     "Kabirou",
@@ -15,11 +15,8 @@ tags = [
 <br>
 Mes chers amis,
 
-N'oubliez pas de féliciter un jeune entrepreneur sénégalais de son 54ème anniversaire. Et j'ai un cadeau pour vous:
+N'oubliez pas de féliciter un jeune entrepreneur sénégalais de son 55ème anniversaire.
 <!--more-->
 
 
-J'ai rassemblé une sélection de 9 lettres concernant les affaires les plus intimes de Kabirou Mbodje, ses préférences et ses désirs. Je ne vais pas publier ces documents sur mon site, mais je les vendrai à un prix raisonnable à tous ceux qui le souhaitent - exclusifs ou non exclusifs. Contactez-moi à info@warileaks.com si vous êtes intéressé.
-
-Spoiler: il les préfère jeunes et le plus souvent blancs.
 <hr>

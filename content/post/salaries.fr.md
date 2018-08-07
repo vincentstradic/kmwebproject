@@ -1,5 +1,5 @@
 +++
-date = "2018-05-21T09:29:26+00:00"
+date = "2018-07-21T09:29:26+00:00"
 title = "Salaires de Wari"
 tags = [
     "Wari",

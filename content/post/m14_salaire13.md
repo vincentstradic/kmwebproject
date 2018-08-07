@@ -1,11 +1,12 @@
 +++
-date = "2018-05-14T06:29:26+00:00"
-title = "Gratifications"
+date = "2018-09-03T06:29:26+00:00"
+title = "Wari salaries"
 tags = [
     "Wari",
     "internal",
 ]
 +++
+
 
 <div class="container" style="width:auto">
   <a target="blank" href="https://image.ibb.co/niT0WJ/m140_1.jpg">

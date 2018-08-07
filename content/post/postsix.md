@@ -8,13 +8,9 @@ tags = [
 ]
 +++
 
-Hi, everyone, let's start with some updates. First, during the last 24 hours I received two bids for the full archive of the club, the highest price currently standing at $30 000 USD. Way to go, guys!
-
-I also found some disturbing photos in the archive. I guess, you can call them erotic, if you are into this specific kind of "erotic"... I'll need to check with Kabirou first, if it will be OK to publish them here. Will let you know what he decides.
-<!--more-->
-
 Today we'll review what Kabirou wanted to do with Tigo, when he thought he was gonna get it. First of all - the plan was to keep the same tax evasion scheme after the sale. Because of that, they were planning to buy Tigo Senegal for just $1:
 
+<!--more-->
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1524480544/postsix/pic_six_1.jpg">
     <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1524480544/postsix/pic_six_1.jpg" style="max-width:100%">

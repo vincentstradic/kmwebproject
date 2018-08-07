@@ -1,5 +1,5 @@
 +++
-date = "2018-05-02T09:29:26+00:00"
+date = "2018-08-13T09:29:26+00:00"
 title = "Sa première femme"
 tags = [
     "Kabirou",
@@ -8,9 +8,8 @@ tags = [
 +++
 
 Salut mes amis!
-Pour tenir ma promesse je commence à publier des informations sur la famille de Kabirou - parce que je peux, et parce qu'il ne fera rien pour protéger leur vie privée.
 
-D'abord, Christine Ngiriye, qui pour les 15 mois précieux était l'épouse de notre héros. Elle a l'air très bien pour elle 44 ans, n'est-ce pas?
+Voir Christine Ngiriye, qui pour les 15 mois précieux était l'épouse de notre héros. Elle a l'air très bien pour elle 44 ans, n'est-ce pas?
 <div class="container" style="width:auto">
   <a target="blank" href="https://image.ibb.co/i744ty/Christine_photo.jpg">
     <img src="https://image.ibb.co/i744ty/Christine_photo.jpg" style="padding:1px;border:thin solid green;max-width:100%">

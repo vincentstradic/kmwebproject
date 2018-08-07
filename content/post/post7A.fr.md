@@ -1,6 +1,6 @@
 
 +++
-date = "2018-06-05T01:29:26+00:00"
+date = "2018-07-05T01:29:26+00:00"
 title = "Comment Kabirou s'y est pris pour tromper deux gouvernements africains en même temps"
 tags = [
     "Kabirou",

@@ -1,5 +1,5 @@
 +++
-date = "2018-05-24T09:29:26+00:00"
+date = "2018-09-07T09:29:26+00:00"
 title = "Plus de SMARTWORLDS"
 tags = [
     "Kabirou",
@@ -8,7 +8,7 @@ tags = [
 ]
 +++
 
-Rappelez-vous que Kabirou a nié avoir quoi que ce soit à faire avec SMARTWORLDS? Eh bien, il mentait, comme d'habitude.
+Kabirou Mbodje détourne Wari en espèces et le dirige vers sa société de poche SMARTWORLDS.
 
 <!--more-->
 <p></p>

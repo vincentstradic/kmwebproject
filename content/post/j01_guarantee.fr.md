@@ -1,12 +1,13 @@
 +++
-date = "2018-06-01T07:29:26+00:00"
-title = "UBA - Garantie Bancaire"
+date = "2018-08-16T07:29:26+00:00"
+title = "Garantie Bancaire"
 tags = [
     "Internal",
     "WARI",
 ]
 +++
 
+Kabirou Mbodje tente d'acquérir une garantie bancaire de 100 millions, mais échoue et doit le faire semblant.
 
 <p></p>
 <div class="container" style="width:auto">

@@ -1,6 +1,6 @@
 +++
-date = "2018-05-24T09:29:26+00:00"
-title = "SMARTWORLDS again"
+date = "2018-09-07T09:29:26+00:00"
+title = "SMARTWORLDS"
 tags = [
     "Kabirou",
     "SMARTWORLDS",
@@ -8,7 +8,7 @@ tags = [
 ]
 +++
 
-Remember Kabirou denied having anything to do with SMARTWORLDS? Well, he was lying, as usual.
+Kabirou Mbodje's embezzles Wari cash and directs it to his pocket company SMARTWORLDS.
 
 <!--more-->
 <p></p>

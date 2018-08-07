@@ -1,6 +1,6 @@
 +++
-date = "2018-05-14T06:29:26+00:00"
-title = "Gratifications"
+date = "2018-09-03TT06:29:26+00:00"
+title = "Salaires Wari"
 tags = [
     "Wari",
     "internal",

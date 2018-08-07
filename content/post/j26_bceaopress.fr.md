@@ -1,5 +1,5 @@
 +++
-date = "2018-07-02T09:29:26+00:00"
+date = "2018-08-21T09:29:26+00:00"
 title = "Kabirou vs Presse sénégalaise"
 tags = [
     "Wari",

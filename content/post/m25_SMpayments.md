@@ -1,13 +1,13 @@
 +++
-date = "2018-05-25T09:29:26+00:00"
-title = "How to spend 10 mln euro in 3 months"
+date = "2018-09-10T09:29:26+00:00"
+title = "SMARTWORLDS as the private pocket of Kabirou Mbodje"
 tags = [
     "SMARTWORLDS",
     "Kabirou",
 ]
 +++
 
-During the last several months, Kabirou bought a Penthouse in Paris for 7 200 000 euro, a private jet for 2.5 mln USD and spent a small fortune on hotels, trips to Mexico and Ibiza and many other nice things.
+During the last several months, Kabirou Mbodje bought a Penthouse in Paris for 7 200 000 euro, a private jet for 2.5 mln USD and spent a small fortune on hotels, trips to Mexico and Ibiza and many other nice things.
 
 From the looks of it, I'd say he knows that soon he'll have nothing more to spend...
 

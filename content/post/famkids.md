@@ -1,6 +1,6 @@
 +++
-date = "2018-05-02T11:29:26+00:00"
-title = "Kabirou's children"
+date = "2018-08-14T11:29:26+00:00"
+title = "Сhildren of Kabirou Mbodje"
 tags = [
     "Kabirou",
     "Family",
@@ -13,7 +13,8 @@ tags = [
   </a>
 </div>
 <br>
-Today let's talk about Kabirou's children. There are four of them:
+
+Today let's talk about the children of Kabirou Mbodje. There are four of them:
 
 <!--more-->
 

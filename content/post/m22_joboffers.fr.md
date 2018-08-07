@@ -1,5 +1,5 @@
 +++
-date = "2018-05-24T10:29:26+00:00"
+date = "2018-09-06T10:29:26+00:00"
 title = "Salaires français pour employés français"
 tags = [
     "Wari",

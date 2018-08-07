@@ -1,5 +1,5 @@
 +++
-date = "2018-06-01T07:29:26+00:00"
+date = "2018-08-16T07:29:26+00:00"
 title = "UBA - Garantie Bancaire"
 tags = [
     "Internal",
@@ -7,6 +7,7 @@ tags = [
 ]
 +++
 
+Kabirou Mbodje tries to acquire a bank guarantee for 100 million, but fails and has to fake it.  
 
 <p></p>
 <div class="container" style="width:auto">

@@ -1,5 +1,5 @@
 +++
-date = "2018-05-31T09:29:26+00:00"
+date = "2018-09-12T09:29:26+00:00"
 title = "Organizational strategy of Wari"
 tags = [
     "Wari",

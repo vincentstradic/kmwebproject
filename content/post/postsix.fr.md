@@ -8,16 +8,10 @@ tags = [
 ]
 +++
 
-Bonjour à tous et à toutes,
-
-Commençons, si vous le voulez bien, par quelques mises à jour. Tout d'abord, au cours des dernières 24 heures, j'ai reçu deux offres pour les archives complètes du club. Le prix le plus élevé étant actuellement de 30 000 $US. Il nous reste encore beaucoup de chemin à parcourir les amis!
-
-J'ai également trouvé des photos pour le moins troublantes dans les archives. J'imagine que vous pouvez les qualifier d'érotiques si vous aimez ce genre d'érotisme pour le moins particulier ... Je vais d'abord vérifier auprès de Kabirou afin de savoir s'il serait approprié de les publier ici. Je vous ferai connaître sa décision prochainement.
+Aujourd'hui, nous allons revoir ce que Kabirou voulait faire avec Tigo alors qu'il était en droit de penser qu'il allait l'obtenir. Tout d'abord, le plan était de garder la même stratégie d'évasion fiscale après la vente. Pour cette raison, ils prévoyaient acheter Tigo Senegal pour seulement 1$.
 
 <!--more-->
 
-
-Aujourd'hui, nous allons revoir ce que Kabirou voulait faire avec Tigo alors qu'il était en droit de penser qu'il allait l'obtenir. Tout d'abord, le plan était de garder la même stratégie d'évasion fiscale après la vente. Pour cette raison, ils prévoyaient acheter Tigo Senegal pour seulement 1 $.
 
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1524480544/postsix/pic_six_1.jpg">

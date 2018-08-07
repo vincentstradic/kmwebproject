@@ -1,5 +1,5 @@
 +++
-date = "2018-07-03T09:29:26+00:00"
+date = "2018-08-24T09:29:26+00:00"
 title = "Kabirou Mbodje lies to banks. As always"
 tags = [
     "Kabirou",
@@ -7,7 +7,7 @@ tags = [
 ]
 +++
 
-As you see, even in a simple documents about his salary in Interlinq, Kabirou still needs to manipulate documents.
+As you see, even in a simple documents about his salary in Interlinq, Kabirou Mbodje still needs to manipulate documents.
 
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526139256/work/j13-2.jpg">

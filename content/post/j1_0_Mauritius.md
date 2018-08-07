@@ -1,11 +1,13 @@
 +++
-date = "2018-06-01T07:29:26+00:00"
+date = "2018-08-15T07:29:26+00:00"
 title = "Wari Mauritius"
 tags = [
     "Wari",
     "internal",
 ]
 +++
+
+Kabirou Mbodje creates an offshore bank account to work with indirect partners of Wari.
 
 <div class="container" style="width:auto">
   <a target="blank" href="https://image.ibb.co/huWZRJ/j100_1.jpg">

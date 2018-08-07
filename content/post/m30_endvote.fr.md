@@ -1,5 +1,5 @@
 +++
-date = "2018-05-30T08:29:26+00:00"
+date = "2025-05-30T08:29:26+00:00"
 title = "Le gagnant"
 tags = [
     "Kabirou",

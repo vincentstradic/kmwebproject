@@ -1,5 +1,5 @@
 +++
-date = "2018-04-23T01:29:26+00:00"
+date = "2025-04-23T01:29:26+00:00"
 title = "Welcome to the Club!"
 tags = [
     "Kabirou",

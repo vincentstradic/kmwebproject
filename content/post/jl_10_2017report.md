@@ -1,5 +1,5 @@
 +++
-date = "2018-07-10T09:29:26+00:00"
+date = "2018-08-29T09:29:26+00:00"
 title = "Internal report 2017"
 tags = [
     "Wari",
@@ -7,7 +7,7 @@ tags = [
 ]
 +++
 
-Confidential report on all of Wari's businesses in 2017. 
+Confidential report on all of Wari's businesses in 2017.
 
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526119943/j5/j5-1.jpg">

@@ -1,5 +1,5 @@
 +++
-date = "2018-05-02T09:29:26+00:00"
+date = "2018-08-09T09:29:26+00:00"
 title = "Situation à Wari"
 tags = [
     "strategy",
@@ -8,7 +8,7 @@ tags = [
 +++
 
 
-Bonne analyse interne de Wari pour vous, si vous aviez l'intention d'investir dans Wari:
+Bonne analyse interne de Wari prepare pour Kabirou Mbodje:
 <!--more-->
 
 <div class="container" style="width:auto">

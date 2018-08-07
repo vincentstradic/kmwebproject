@@ -7,7 +7,7 @@ tags = [
 ]
 +++
 
-Comme vous le voyez, même dans un simple document sur son salaire à Interlinq, Kabirou doit toujours manipuler des documents.
+Comme vous le voyez, même dans un simple document sur son salaire à Interlinq, Kabirou Mbodje doit toujours manipuler des documents.
 
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526139256/work/j13-2.jpg">

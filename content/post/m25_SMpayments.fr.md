@@ -1,6 +1,6 @@
 +++
-date = "2018-05-25T09:29:26+00:00"
-title = "Comment dépenser 10 millions d'euros en 3 mois"
+date = "2018-09-10T09:29:26+00:00"
+title = "SMARTWORLDS comme poche privée de Kabirou Mbodje"
 tags = [
     "SMARTWORLDS",
     "Kabirou",

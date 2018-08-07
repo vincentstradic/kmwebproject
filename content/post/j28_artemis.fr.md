@@ -1,5 +1,5 @@
 +++
-date = "2018-07-04T09:29:26+00:00"
+date = "2018-08-29T09:29:26+00:00"
 title = "Banque d'affaires"
 tags = [
     "Wari",
@@ -7,7 +7,7 @@ tags = [
 ]
 +++
 
-Kabirou embauche Artemis Group pour aider à mentir aux investisseurs potentiels.
+Kabirou Mbodje embauche Artemis Group pour aider à mentir aux investisseurs potentiels.
 
 
 <div class="container" style="width:auto">

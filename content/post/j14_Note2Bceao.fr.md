@@ -1,5 +1,5 @@
 +++
-date = "2018-06-14T09:29:26+00:00"
+date = "2018-08-18T09:29:26+00:00"
 title = "Un mensonge long et ennuyeux par Wari"
 tags = [
     "Wari",
@@ -7,7 +7,7 @@ tags = [
 ]
 +++
 
-Wari répond à de nombreuses reprises de la BCEAO  avec beaucoup de mensonges:
+Wari répond à de nombreuses reprises de la BCEAO avec beaucoup de mensonges:
 
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526213414/j14-1_s9z4z7.jpg">

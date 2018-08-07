@@ -1,6 +1,6 @@
 +++
-date = "2018-06-25T09:29:26+00:00"
-title = "Kabirou - 54"
+date = "2019-06-25T09:29:26+00:00"
+title = "Kabirou - 55"
 tags = [
     "Wari",
     "Kabirou",
@@ -15,12 +15,7 @@ tags = [
 <br>
 My dear friends,
 
-Please, don't forget to congratulate young Senegalese entrepreneur with his 54-th birthday. And I have a present for you: 
-
+Please, don't forget to congratulate young Senegalese entrepreneur with his 55-th birthday.
 <!--more-->
-
-I have put together a selection of 9 letters concerning the most intimate affairs of Kabirou Mbodje, his preferences and desires. I am not going to publish this in the site, but I'll sell them for a reasonable price to anyone who wants - exclusive or non-exclusive. Get in touch with me at info@warileaks.com if you are interested.
-
-Spoiler: he likes them young and mostly white.
 
 <hr>

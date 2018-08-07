@@ -1,5 +1,5 @@
 +++
-date = "2018-06-08T11:29:26+00:00"
+date = "2018-08-10T11:29:26+00:00"
 title = "Corruption au Togo"
 tags = [
     "Wari",
@@ -8,7 +8,7 @@ tags = [
 ]
 +++
 
-Voici un autre exemple parfait de la façon dont Kabirou corrompt les gouvernements. Cette fois au Togo.
+Kabirou Mbodje orchestre une énorme corruption gouvernementale au Togo.
 
 Je raconterai cette histoire exclusivement dans des documents. Commençons par la lettre adressée à Kabirou par son conseiller juridique, Pape Magatte Diop. Ensuite, il suffit de suivre les documents ci-joints.
 <!--more-->

@@ -1,5 +1,5 @@
 +++
-date = "2018-06-14T09:29:26+00:00"
+date = "2018-08-18T09:29:26+00:00"
 title = "A long and boring lie by Wari"
 tags = [
     "Wari",

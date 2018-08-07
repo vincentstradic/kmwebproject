@@ -1,11 +1,13 @@
 +++
-date = "2018-06-19T09:29:26+00:00"
+date = "2018-08-20T09:29:26+00:00"
 title = "Wari shares valuation"
 tags = [
     "Wari",
     "internal",
 ]
 +++
+
+Kabirou Mbodje instructs his employees to inflate Wari shares price.
 
 <div class="container" style="width:auto">
   <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1526216405/work/j19-1.jpg">

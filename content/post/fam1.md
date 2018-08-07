@@ -1,5 +1,5 @@
 +++
-date = "2018-05-02T09:29:26+00:00"
+date = "2018-08-13T09:29:26+00:00"
 title = "First wife"
 tags = [
     "Kabirou",
@@ -8,7 +8,6 @@ tags = [
 +++
 
 Hi, my friends!
-I keep my promise and start publishing info on Kabirou's family - because I can, and because he won't do anything to protect their privacy.
 
 Meet Christine Ngiriye, who for the precious 15 months was the wife of our hero. Looks very nice for her 44, doesn't she?
 <div class="container" style="width:auto">
