@@ -1,5 +1,5 @@
 +++
-date = "2018-05-17T09:29:26+00:00"
+date = "2018-06-17T09:29:26+00:00"
 title = "BCEAO and WARI meet again"
 tags = [
     "Wari",
@@ -13,6 +13,6 @@ A few days later, Mr. Diaby ABOUBACAR with a number of BCEAO officials and again
 
 <!--more-->
 
-Later on, we'll discuss how Wari responded to the requirements from BCEAO. 
+Later on, we'll discuss how Wari responded to the requirements from BCEAO.
 
 <hr>
