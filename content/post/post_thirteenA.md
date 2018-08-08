@@ -1,6 +1,6 @@
 +++
 date = "2018-07-27T09:29:26+00:00"
-title = "What other proof do you need?"
+title = "Embezzlement in Wari"
 tags = [
     "HSBC",
     "Wari",

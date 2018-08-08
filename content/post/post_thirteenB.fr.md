@@ -1,6 +1,6 @@
 +++
 date = "2018-07-08T11:29:26+00:00"
-title = "Encore plus de preuves"
+title = "Détournement de fonds à Wari - encore plus de preuves"
 tags = [
     "HSBC",
     "Wari",
