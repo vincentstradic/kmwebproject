@@ -9,7 +9,6 @@ tags = [
 
 I have seen Kabirou Mbodje lying to authorities many times, but this is a real surprise. See for yourself:
 
-<!--more-->
 
 
 Kabirou Mbodje, of **French** nationality, was born **in Lyon, 7E Arrondissement**, correct?
@@ -22,6 +21,7 @@ Kabirou Mbodje, of **French** nationality, was born **in Lyon, 7E Arrondissement
   </a>
 </div>
 
+<!--more-->
 
 
 

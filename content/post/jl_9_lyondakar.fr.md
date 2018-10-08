@@ -9,7 +9,7 @@ tags = [
 
 J'ai vu Kabirou Mbodje mentir aux autorités à plusieurs reprises, mais c'est une vraie surprise. Voir par vous-même:
 
-<!--more-->
+
 
 
 Kabirou Mbodje, de nationalité **Française**, est née **à Lyon, 7E Arrondissement**, n'est-ce pas?
@@ -22,7 +22,7 @@ Kabirou Mbodje, de nationalité **Française**, est née **à Lyon, 7E Arrondiss
   </a>
 </div>
 
-
+<!--more-->
 
 
 <br>
