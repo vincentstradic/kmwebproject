@@ -7,7 +7,7 @@ tags = [
 ]
 +++
 
-And you though I was done with you? No way...
+And you thought I was done with you? No way...
 
 
 <hr>
