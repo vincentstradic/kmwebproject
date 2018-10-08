@@ -1,5 +1,6 @@
 +++
-title = "Wari est toujours ouvert au dialogue"
+date = "2018-07-11T11:29:26+00:00"
+title = "Wari is always open for dialog"
 tags = [
     "Wari",
     "internal",
