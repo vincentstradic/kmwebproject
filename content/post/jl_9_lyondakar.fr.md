@@ -17,8 +17,8 @@ Kabirou Mbodje, de nationalité **Française**, est née **à Lyon, 7E Arrondiss
 
 <p></p>
 <div class="container" style="width:auto">
-  <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1523977187/Kabirou_passport_ca14jy.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1523977187/Kabirou_passport_ca14jy.jpg"  style="padding:1px;border:thin solid green;max-width:100%">
+  <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/v1523977187/DMCA_review/Kabirou_passport_ca14jy.jpg">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/f_auto,q_auto/DMCA_review/v1523977187/Kabirou_passport_ca14jy.jpg"  style="padding:1px;border:thin solid green;max-width:100%">
   </a>
 </div>
 
