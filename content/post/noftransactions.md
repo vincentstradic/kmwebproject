@@ -10,8 +10,8 @@ tags = [
 In his latest interview about Wari, [Kabirou keeps insisting on "one million transactions per day"](http://jubanti.com/actualite/pourquoi-wari-gene-comment-tigo-la-echappe-les-manoeuvres-de-xavier-niel-kabirou-mbodje-dit-tout-interview/). Well, not exactly.
 
 <div class="container" style="width:auto">
-  <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1525876841/work/transactions2017.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1525876841/work/transactions2017.jpg" style="max-width:100%">
+  <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1525876841/DMCA_review/work/transactions2017.jpg">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1525876841/DMCA_review/work/transactions2017.jpg" style="max-width:100%">
   </a>
 </div>
 

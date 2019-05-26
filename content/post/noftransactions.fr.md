@@ -10,8 +10,8 @@ tags = [
 Dans sa dernière interview sur Wari, [Kabirou insiste sur le fait que Wari a "un million de transactions par jour"](http://jubanti.com/actualite/pourquoi-wari-gene-comment-tigo-la-echappe-les-manoeuvres-de-xavier-niel-kabirou-mbodje-dit-tout-interview/). Désolé, mais non.
 
 <div class="container" style="width:auto">
-  <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1525876841/work/transactions2017.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1525876841/work/transactions2017.jpg" style="max-width:100%">
+  <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1525876841/DMCA_review/work/transactions2017.jpg">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1525876841/DMCA_review/work/transactions2017.jpg" style="max-width:100%">
   </a>
 </div>
 
@@ -25,8 +25,8 @@ Vous pouvez supposer qu'il y avait une grande augmentation en 2018? Désolé, ma
 Naturellement, le revenu a stagné sur tout l'année 2017, suivi par la même baisse en 2018:
 
 <div class="container" style="width:auto">
-  <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1525876997/work/revenue2017.jpg">
-    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1525876997/work/revenue2017.jpg" style="max-width:100%">
+  <a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1525876997/DMCA_review/work/revenue2017.jpg">
+    <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1525876997/DMCA_review/work/revenue2017.jpg" style="max-width:100%">
   </a>
 </div>
 <br>
