@@ -1,6 +1,6 @@
 +++
 date = "2018-10-01T11:29:26+00:00"
-title = "Reminder"
+title = "No chance, my old friend"
 tags = [
     "Wari",
     "Kabirou",
@@ -9,7 +9,7 @@ tags = [
 <br>
 
 <br>
-**And you thought I was done with you? No way.**  
+**This site will be with you forever.**  
 
 
 <hr>

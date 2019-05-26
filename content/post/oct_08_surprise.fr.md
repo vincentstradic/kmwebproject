@@ -1,6 +1,6 @@
 +++
 date = "2018-10-01T11:29:26+00:00"
-title = "Rappel"
+title = "Pas de chance, mon ami"
 tags = [
     "Wari",
     "Kabirou",
@@ -10,7 +10,7 @@ tags = [
 <br>
 <br>
 
-**Et tu pensais que j'avais fini avec toi? Pas du tout.**
+**Ce site restera avec toi pour toujours.**
 
 
 <hr>
