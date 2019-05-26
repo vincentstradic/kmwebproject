@@ -9,7 +9,7 @@ tags = [
 <br>
 
 <br>
-**And you thought I was done with you? No way...**  
+**And you thought I was done with you? No way.**  
 
 
 <hr>

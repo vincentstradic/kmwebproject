@@ -10,7 +10,7 @@ tags = [
 <br>
 <br>
 
-**Et tu pensais que j'avais fini avec toi? Pas du tout...**
+**Et tu pensais que j'avais fini avec toi? Pas du tout.**
 
 
 <hr>
