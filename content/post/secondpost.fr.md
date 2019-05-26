@@ -17,7 +17,7 @@ Nous savons tous que Kabirou est riche. Mais quel est le montant de sa richesse?
 </div>
 
 
-Commençons par un document somme toute très simple, sa Déclaration de patrimoine  (<a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1523977187/DECLARATION_PATRIMOINE_rawizo.pdf">version PDF</a>), qui est censé couvrir l'ensemble de ses actifs. Comme nous l'apprendrons plus tard, ce document n'est ni complet, ni correct.
+Commençons par un document somme toute très simple, sa Déclaration de patrimoine  (<a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1523977187/DMCA_review/DECLARATION_PATRIMOINE_rawizo.pdf">version PDF</a>), qui est censé couvrir l'ensemble de ses actifs. Comme nous l'apprendrons plus tard, ce document n'est ni complet, ni correct.
 <!--more-->
 Lorsqu'on lui pose des questions par rapport à sa fortune personnelle, les réponses données par Kabirou dépendent beaucoup de qui demande et ces mêmes réponses peuvent également être très surprenantes. Les versions sont tellement nombreuses que nous n'apprendrons probablement jamais toute la vérité. Voyons par exemple, ce qu'il a dit à l'une des banques au sujet de ses revenus, tout en essayant d'obtenir une marge de crédit personnelle:
 

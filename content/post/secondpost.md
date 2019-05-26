@@ -14,7 +14,7 @@ We all know that Kabirou is rich. But how rich? Let's see.
     <img src="https://res.cloudinary.com/vincentstradic/image/upload/v1523983420/DECLARATION_PATRIMOINE_bholox.jpg" style="max-width:100%">
   </a>
 </div>
-<p>We'll start with a very simple document, his Declaration Patrimoine (<a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1523977187/DECLARATION_PATRIMOINE_rawizo.pdf">pdf version</a>), which is supposed to  cover all of his assets. As we'll learn later, it's neither complete, nor correct.</p>
+<p>We'll start with a very simple document, his Declaration Patrimoine (<a target="blank" href="https://res.cloudinary.com/vincentstradic/image/upload/v1523977187/DMCA_review/DECLARATION_PATRIMOINE_rawizo.pdf">pdf version</a>), which is supposed to  cover all of his assets. As we'll learn later, it's neither complete, nor correct.</p>
 <!--more-->
 <p>Kabirou's response to "How rich are you?" very much depends on who is asking, there are so many versions, that we'll probably never learn the whole truth. Let's see for example, what he told one of the banks about his revenues, while trying to get a personal line of credit:</p>
 
